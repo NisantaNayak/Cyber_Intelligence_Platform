@@ -1,0 +1,29 @@
+{
+  "name": "cip-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts",
+    "smoke": "tsx src/scripts/smoke.ts",
+    "build:api-types": "tsup"
+  },
+  "dependencies": {
+    "@cip/db": "file:../cip-database",
+    "@fastify/cors": "^10.0.1",
+    "@prisma/client": "^6.2.1",
+    "@trpc/server": "^11.0.0-rc.700",
+    "fastify": "^5.2.0",
+    "ioredis": "^5.4.2",
+    "jose": "^5.9.6",
+    "superjson": "^2.2.2",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.19",
+    "tsup": "^8.3.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

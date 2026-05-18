@@ -1,0 +1,46 @@
+{
+  "name": "@cip/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CIP serving-layer database: Prisma schema, migrations, ETL/seed pipeline, and the shared PrismaClient.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "prisma"
+  ],
+  "scripts": {
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev --name init",
+    "db:postsetup": "tsx src/scripts/postMigrate.ts",
+    "generate": "tsx src/scripts/generate.ts",
+    "xlsx:templates": "tsx src/scripts/xlsxTemplates.ts",
+    "ingest": "tsx src/scripts/ingestXlsx.ts",
+    "transform": "tsx src/scripts/transform.ts",
+    "load": "tsx src/scripts/load.ts",
+    "detect": "tsx src/scripts/detectors.ts",
+    "seed": "npm run generate && npm run transform && npm run load && npm run detect",
+    "seed:xlsx": "npm run ingest && npm run transform && npm run load && npm run detect",
+    "build": "prisma generate && tsc",
+    "prepare": "prisma generate && tsc"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.19",
+    "prisma": "^6.2.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

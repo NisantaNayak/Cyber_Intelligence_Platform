@@ -1,0 +1,2002 @@
+[
+  {
+    "endpoint_id": "FS-0005",
+    "host": "HOST-0005",
+    "ip": "10.0.5.6",
+    "mac": "0A:1B:2C:00:05:05",
+    "serial_no": "SN-GEN-0005",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0010",
+    "host": "HOST-0010",
+    "ip": "10.0.10.11",
+    "mac": "0A:1B:2C:00:10:00",
+    "serial_no": "SN-GEN-0010",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0015",
+    "host": "HOST-0015",
+    "ip": "10.0.15.16",
+    "mac": "0A:1B:2C:00:15:05",
+    "serial_no": "SN-GEN-0015",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0020",
+    "host": "HOST-0020",
+    "ip": "10.0.20.21",
+    "mac": "0A:1B:2C:00:20:00",
+    "serial_no": "SN-GEN-0020",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0025",
+    "host": "HOST-0025",
+    "ip": "10.0.25.26",
+    "mac": "0A:1B:2C:00:25:05",
+    "serial_no": "SN-GEN-0025",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0030",
+    "host": "HOST-0030",
+    "ip": "10.0.30.31",
+    "mac": "0A:1B:2C:00:30:00",
+    "serial_no": "SN-GEN-0030",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0035",
+    "host": "HOST-0035",
+    "ip": "10.0.35.36",
+    "mac": "0A:1B:2C:00:35:05",
+    "serial_no": "SN-GEN-0035",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0040",
+    "host": "HOST-0040",
+    "ip": "10.0.40.41",
+    "mac": "0A:1B:2C:00:40:00",
+    "serial_no": "SN-GEN-0040",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0045",
+    "host": "HOST-0045",
+    "ip": "10.0.45.46",
+    "mac": "0A:1B:2C:00:45:05",
+    "serial_no": "SN-GEN-0045",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0050",
+    "host": "HOST-0050",
+    "ip": "10.0.50.51",
+    "mac": "0A:1B:2C:00:50:00",
+    "serial_no": "SN-GEN-0050",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0055",
+    "host": "HOST-0055",
+    "ip": "10.0.55.56",
+    "mac": "0A:1B:2C:00:55:05",
+    "serial_no": "SN-GEN-0055",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0060",
+    "host": "HOST-0060",
+    "ip": "10.0.60.61",
+    "mac": "0A:1B:2C:00:60:00",
+    "serial_no": "SN-GEN-0060",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0065",
+    "host": "HOST-0065",
+    "ip": "10.0.65.66",
+    "mac": "0A:1B:2C:00:65:05",
+    "serial_no": "SN-GEN-0065",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0070",
+    "host": "HOST-0070",
+    "ip": "10.0.70.71",
+    "mac": "0A:1B:2C:00:70:00",
+    "serial_no": "SN-GEN-0070",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0075",
+    "host": "HOST-0075",
+    "ip": "10.0.75.76",
+    "mac": "0A:1B:2C:00:75:05",
+    "serial_no": "SN-GEN-0075",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0080",
+    "host": "HOST-0080",
+    "ip": "10.0.80.81",
+    "mac": "0A:1B:2C:00:80:00",
+    "serial_no": "SN-GEN-0080",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0085",
+    "host": "HOST-0085",
+    "ip": "10.0.85.86",
+    "mac": "0A:1B:2C:00:85:05",
+    "serial_no": "SN-GEN-0085",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0090",
+    "host": "HOST-0090",
+    "ip": "10.0.90.91",
+    "mac": "0A:1B:2C:00:90:00",
+    "serial_no": "SN-GEN-0090",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0095",
+    "host": "HOST-0095",
+    "ip": "10.0.95.96",
+    "mac": "0A:1B:2C:00:95:05",
+    "serial_no": "SN-GEN-0095",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0100",
+    "host": "HOST-0100",
+    "ip": "10.0.100.101",
+    "mac": "0A:1B:2C:01:00:00",
+    "serial_no": "SN-GEN-0100",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0105",
+    "host": "HOST-0105",
+    "ip": "10.0.105.106",
+    "mac": "0A:1B:2C:01:05:05",
+    "serial_no": "SN-GEN-0105",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0110",
+    "host": "HOST-0110",
+    "ip": "10.0.110.111",
+    "mac": "0A:1B:2C:01:10:00",
+    "serial_no": "SN-GEN-0110",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0115",
+    "host": "HOST-0115",
+    "ip": "10.0.115.116",
+    "mac": "0A:1B:2C:01:15:05",
+    "serial_no": "SN-GEN-0115",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0120",
+    "host": "HOST-0120",
+    "ip": "10.0.120.121",
+    "mac": "0A:1B:2C:01:20:00",
+    "serial_no": "SN-GEN-0120",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0125",
+    "host": "HOST-0125",
+    "ip": "10.0.125.126",
+    "mac": "0A:1B:2C:01:25:05",
+    "serial_no": "SN-GEN-0125",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0130",
+    "host": "HOST-0130",
+    "ip": "10.0.130.131",
+    "mac": "0A:1B:2C:01:30:00",
+    "serial_no": "SN-GEN-0130",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0135",
+    "host": "HOST-0135",
+    "ip": "10.0.135.136",
+    "mac": "0A:1B:2C:01:35:05",
+    "serial_no": "SN-GEN-0135",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0140",
+    "host": "HOST-0140",
+    "ip": "10.0.140.141",
+    "mac": "0A:1B:2C:01:40:00",
+    "serial_no": "SN-GEN-0140",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0145",
+    "host": "HOST-0145",
+    "ip": "10.0.145.146",
+    "mac": "0A:1B:2C:01:45:05",
+    "serial_no": "SN-GEN-0145",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0150",
+    "host": "HOST-0150",
+    "ip": "10.0.150.151",
+    "mac": "0A:1B:2C:01:50:00",
+    "serial_no": "SN-GEN-0150",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0155",
+    "host": "HOST-0155",
+    "ip": "10.0.155.156",
+    "mac": "0A:1B:2C:01:55:05",
+    "serial_no": "SN-GEN-0155",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0160",
+    "host": "HOST-0160",
+    "ip": "10.0.160.161",
+    "mac": "0A:1B:2C:01:60:00",
+    "serial_no": "SN-GEN-0160",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0165",
+    "host": "HOST-0165",
+    "ip": "10.0.165.166",
+    "mac": "0A:1B:2C:01:65:05",
+    "serial_no": "SN-GEN-0165",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0170",
+    "host": "HOST-0170",
+    "ip": "10.0.170.171",
+    "mac": "0A:1B:2C:01:70:00",
+    "serial_no": "SN-GEN-0170",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0175",
+    "host": "HOST-0175",
+    "ip": "10.0.175.176",
+    "mac": "0A:1B:2C:01:75:05",
+    "serial_no": "SN-GEN-0175",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0180",
+    "host": "HOST-0180",
+    "ip": "10.0.180.181",
+    "mac": "0A:1B:2C:01:80:00",
+    "serial_no": "SN-GEN-0180",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0185",
+    "host": "HOST-0185",
+    "ip": "10.0.185.186",
+    "mac": "0A:1B:2C:01:85:05",
+    "serial_no": "SN-GEN-0185",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0190",
+    "host": "HOST-0190",
+    "ip": "10.0.190.191",
+    "mac": "0A:1B:2C:01:90:00",
+    "serial_no": "SN-GEN-0190",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0195",
+    "host": "HOST-0195",
+    "ip": "10.0.195.196",
+    "mac": "0A:1B:2C:01:95:05",
+    "serial_no": "SN-GEN-0195",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0200",
+    "host": "HOST-0200",
+    "ip": "10.0.200.201",
+    "mac": "0A:1B:2C:02:00:00",
+    "serial_no": "SN-GEN-0200",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0205",
+    "host": "HOST-0205",
+    "ip": "10.0.205.206",
+    "mac": "0A:1B:2C:02:05:05",
+    "serial_no": "SN-GEN-0205",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0210",
+    "host": "HOST-0210",
+    "ip": "10.0.210.211",
+    "mac": "0A:1B:2C:02:10:00",
+    "serial_no": "SN-GEN-0210",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0215",
+    "host": "HOST-0215",
+    "ip": "10.0.215.216",
+    "mac": "0A:1B:2C:02:15:05",
+    "serial_no": "SN-GEN-0215",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0220",
+    "host": "HOST-0220",
+    "ip": "10.0.220.221",
+    "mac": "0A:1B:2C:02:20:00",
+    "serial_no": "SN-GEN-0220",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0225",
+    "host": "HOST-0225",
+    "ip": "10.0.225.226",
+    "mac": "0A:1B:2C:02:25:05",
+    "serial_no": "SN-GEN-0225",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0230",
+    "host": "HOST-0230",
+    "ip": "10.0.230.231",
+    "mac": "0A:1B:2C:02:30:00",
+    "serial_no": "SN-GEN-0230",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0235",
+    "host": "HOST-0235",
+    "ip": "10.0.235.236",
+    "mac": "0A:1B:2C:02:35:05",
+    "serial_no": "SN-GEN-0235",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0240",
+    "host": "HOST-0240",
+    "ip": "10.0.240.241",
+    "mac": "0A:1B:2C:02:40:00",
+    "serial_no": "SN-GEN-0240",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0245",
+    "host": "HOST-0245",
+    "ip": "10.0.245.246",
+    "mac": "0A:1B:2C:02:45:05",
+    "serial_no": "SN-GEN-0245",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0250",
+    "host": "HOST-0250",
+    "ip": "10.0.250.251",
+    "mac": "0A:1B:2C:02:50:00",
+    "serial_no": "SN-GEN-0250",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0255",
+    "host": "HOST-0255",
+    "ip": "10.0.255.2",
+    "mac": "0A:1B:2C:02:55:05",
+    "serial_no": "SN-GEN-0255",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0260",
+    "host": "HOST-0260",
+    "ip": "10.1.4.7",
+    "mac": "0A:1B:2C:02:60:00",
+    "serial_no": "SN-GEN-0260",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0265",
+    "host": "HOST-0265",
+    "ip": "10.1.9.12",
+    "mac": "0A:1B:2C:02:65:05",
+    "serial_no": "SN-GEN-0265",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0270",
+    "host": "HOST-0270",
+    "ip": "10.1.14.17",
+    "mac": "0A:1B:2C:02:70:00",
+    "serial_no": "SN-GEN-0270",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0275",
+    "host": "HOST-0275",
+    "ip": "10.1.19.22",
+    "mac": "0A:1B:2C:02:75:05",
+    "serial_no": "SN-GEN-0275",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0280",
+    "host": "HOST-0280",
+    "ip": "10.1.24.27",
+    "mac": "0A:1B:2C:02:80:00",
+    "serial_no": "SN-GEN-0280",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0285",
+    "host": "HOST-0285",
+    "ip": "10.1.29.32",
+    "mac": "0A:1B:2C:02:85:05",
+    "serial_no": "SN-GEN-0285",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0290",
+    "host": "HOST-0290",
+    "ip": "10.1.34.37",
+    "mac": "0A:1B:2C:02:90:00",
+    "serial_no": "SN-GEN-0290",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0295",
+    "host": "HOST-0295",
+    "ip": "10.1.39.42",
+    "mac": "0A:1B:2C:02:95:05",
+    "serial_no": "SN-GEN-0295",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0300",
+    "host": "HOST-0300",
+    "ip": "10.1.44.47",
+    "mac": "0A:1B:2C:03:00:00",
+    "serial_no": "SN-GEN-0300",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0305",
+    "host": "HOST-0305",
+    "ip": "10.1.49.52",
+    "mac": "0A:1B:2C:03:05:05",
+    "serial_no": "SN-GEN-0305",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0310",
+    "host": "HOST-0310",
+    "ip": "10.1.54.57",
+    "mac": "0A:1B:2C:03:10:00",
+    "serial_no": "SN-GEN-0310",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0315",
+    "host": "HOST-0315",
+    "ip": "10.1.59.62",
+    "mac": "0A:1B:2C:03:15:05",
+    "serial_no": "SN-GEN-0315",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0320",
+    "host": "HOST-0320",
+    "ip": "10.1.64.67",
+    "mac": "0A:1B:2C:03:20:00",
+    "serial_no": "SN-GEN-0320",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0325",
+    "host": "HOST-0325",
+    "ip": "10.1.69.72",
+    "mac": "0A:1B:2C:03:25:05",
+    "serial_no": "SN-GEN-0325",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0330",
+    "host": "HOST-0330",
+    "ip": "10.1.74.77",
+    "mac": "0A:1B:2C:03:30:00",
+    "serial_no": "SN-GEN-0330",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0335",
+    "host": "HOST-0335",
+    "ip": "10.1.79.82",
+    "mac": "0A:1B:2C:03:35:05",
+    "serial_no": "SN-GEN-0335",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0340",
+    "host": "HOST-0340",
+    "ip": "10.1.84.87",
+    "mac": "0A:1B:2C:03:40:00",
+    "serial_no": "SN-GEN-0340",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0345",
+    "host": "HOST-0345",
+    "ip": "10.1.89.92",
+    "mac": "0A:1B:2C:03:45:05",
+    "serial_no": "SN-GEN-0345",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0350",
+    "host": "HOST-0350",
+    "ip": "10.1.94.97",
+    "mac": "0A:1B:2C:03:50:00",
+    "serial_no": "SN-GEN-0350",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0355",
+    "host": "HOST-0355",
+    "ip": "10.1.99.102",
+    "mac": "0A:1B:2C:03:55:05",
+    "serial_no": "SN-GEN-0355",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0360",
+    "host": "HOST-0360",
+    "ip": "10.1.104.107",
+    "mac": "0A:1B:2C:03:60:00",
+    "serial_no": "SN-GEN-0360",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0365",
+    "host": "HOST-0365",
+    "ip": "10.1.109.112",
+    "mac": "0A:1B:2C:03:65:05",
+    "serial_no": "SN-GEN-0365",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0370",
+    "host": "HOST-0370",
+    "ip": "10.1.114.117",
+    "mac": "0A:1B:2C:03:70:00",
+    "serial_no": "SN-GEN-0370",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0375",
+    "host": "HOST-0375",
+    "ip": "10.1.119.122",
+    "mac": "0A:1B:2C:03:75:05",
+    "serial_no": "SN-GEN-0375",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0380",
+    "host": "HOST-0380",
+    "ip": "10.1.124.127",
+    "mac": "0A:1B:2C:03:80:00",
+    "serial_no": "SN-GEN-0380",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0385",
+    "host": "HOST-0385",
+    "ip": "10.1.129.132",
+    "mac": "0A:1B:2C:03:85:05",
+    "serial_no": "SN-GEN-0385",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0390",
+    "host": "HOST-0390",
+    "ip": "10.1.134.137",
+    "mac": "0A:1B:2C:03:90:00",
+    "serial_no": "SN-GEN-0390",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0395",
+    "host": "HOST-0395",
+    "ip": "10.1.139.142",
+    "mac": "0A:1B:2C:03:95:05",
+    "serial_no": "SN-GEN-0395",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0400",
+    "host": "HOST-0400",
+    "ip": "10.1.144.147",
+    "mac": "0A:1B:2C:04:00:00",
+    "serial_no": "SN-GEN-0400",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0405",
+    "host": "HOST-0405",
+    "ip": "10.1.149.152",
+    "mac": "0A:1B:2C:04:05:05",
+    "serial_no": "SN-GEN-0405",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0410",
+    "host": "HOST-0410",
+    "ip": "10.1.154.157",
+    "mac": "0A:1B:2C:04:10:00",
+    "serial_no": "SN-GEN-0410",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0415",
+    "host": "HOST-0415",
+    "ip": "10.1.159.162",
+    "mac": "0A:1B:2C:04:15:05",
+    "serial_no": "SN-GEN-0415",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0420",
+    "host": "HOST-0420",
+    "ip": "10.1.164.167",
+    "mac": "0A:1B:2C:04:20:00",
+    "serial_no": "SN-GEN-0420",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0425",
+    "host": "HOST-0425",
+    "ip": "10.1.169.172",
+    "mac": "0A:1B:2C:04:25:05",
+    "serial_no": "SN-GEN-0425",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0430",
+    "host": "HOST-0430",
+    "ip": "10.1.174.177",
+    "mac": "0A:1B:2C:04:30:00",
+    "serial_no": "SN-GEN-0430",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0435",
+    "host": "HOST-0435",
+    "ip": "10.1.179.182",
+    "mac": "0A:1B:2C:04:35:05",
+    "serial_no": "SN-GEN-0435",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0440",
+    "host": "HOST-0440",
+    "ip": "10.1.184.187",
+    "mac": "0A:1B:2C:04:40:00",
+    "serial_no": "SN-GEN-0440",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0445",
+    "host": "HOST-0445",
+    "ip": "10.1.189.192",
+    "mac": "0A:1B:2C:04:45:05",
+    "serial_no": "SN-GEN-0445",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0450",
+    "host": "HOST-0450",
+    "ip": "10.1.194.197",
+    "mac": "0A:1B:2C:04:50:00",
+    "serial_no": "SN-GEN-0450",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0455",
+    "host": "HOST-0455",
+    "ip": "10.1.199.202",
+    "mac": "0A:1B:2C:04:55:05",
+    "serial_no": "SN-GEN-0455",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0460",
+    "host": "HOST-0460",
+    "ip": "10.1.204.207",
+    "mac": "0A:1B:2C:04:60:00",
+    "serial_no": "SN-GEN-0460",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0465",
+    "host": "HOST-0465",
+    "ip": "10.1.209.212",
+    "mac": "0A:1B:2C:04:65:05",
+    "serial_no": "SN-GEN-0465",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0470",
+    "host": "HOST-0470",
+    "ip": "10.1.214.217",
+    "mac": "0A:1B:2C:04:70:00",
+    "serial_no": "SN-GEN-0470",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0475",
+    "host": "HOST-0475",
+    "ip": "10.1.219.222",
+    "mac": "0A:1B:2C:04:75:05",
+    "serial_no": "SN-GEN-0475",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0480",
+    "host": "HOST-0480",
+    "ip": "10.1.224.227",
+    "mac": "0A:1B:2C:04:80:00",
+    "serial_no": "SN-GEN-0480",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0485",
+    "host": "HOST-0485",
+    "ip": "10.1.229.232",
+    "mac": "0A:1B:2C:04:85:05",
+    "serial_no": "SN-GEN-0485",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0490",
+    "host": "HOST-0490",
+    "ip": "10.1.234.237",
+    "mac": "0A:1B:2C:04:90:00",
+    "serial_no": "SN-GEN-0490",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0495",
+    "host": "HOST-0495",
+    "ip": "10.1.239.242",
+    "mac": "0A:1B:2C:04:95:05",
+    "serial_no": "SN-GEN-0495",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0500",
+    "host": "HOST-0500",
+    "ip": "10.1.244.247",
+    "mac": "0A:1B:2C:05:00:00",
+    "serial_no": "SN-GEN-0500",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0505",
+    "host": "HOST-0505",
+    "ip": "10.1.249.252",
+    "mac": "0A:1B:2C:05:05:05",
+    "serial_no": "SN-GEN-0505",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0510",
+    "host": "HOST-0510",
+    "ip": "10.1.254.3",
+    "mac": "0A:1B:2C:05:10:00",
+    "serial_no": "SN-GEN-0510",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0515",
+    "host": "HOST-0515",
+    "ip": "10.2.3.8",
+    "mac": "0A:1B:2C:05:15:05",
+    "serial_no": "SN-GEN-0515",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0520",
+    "host": "HOST-0520",
+    "ip": "10.2.8.13",
+    "mac": "0A:1B:2C:05:20:00",
+    "serial_no": "SN-GEN-0520",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0525",
+    "host": "HOST-0525",
+    "ip": "10.2.13.18",
+    "mac": "0A:1B:2C:05:25:05",
+    "serial_no": "SN-GEN-0525",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0530",
+    "host": "HOST-0530",
+    "ip": "10.2.18.23",
+    "mac": "0A:1B:2C:05:30:00",
+    "serial_no": "SN-GEN-0530",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0535",
+    "host": "HOST-0535",
+    "ip": "10.2.23.28",
+    "mac": "0A:1B:2C:05:35:05",
+    "serial_no": "SN-GEN-0535",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0540",
+    "host": "HOST-0540",
+    "ip": "10.2.28.33",
+    "mac": "0A:1B:2C:05:40:00",
+    "serial_no": "SN-GEN-0540",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0545",
+    "host": "HOST-0545",
+    "ip": "10.2.33.38",
+    "mac": "0A:1B:2C:05:45:05",
+    "serial_no": "SN-GEN-0545",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0550",
+    "host": "HOST-0550",
+    "ip": "10.2.38.43",
+    "mac": "0A:1B:2C:05:50:00",
+    "serial_no": "SN-GEN-0550",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0555",
+    "host": "HOST-0555",
+    "ip": "10.2.43.48",
+    "mac": "0A:1B:2C:05:55:05",
+    "serial_no": "SN-GEN-0555",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0560",
+    "host": "HOST-0560",
+    "ip": "10.2.48.53",
+    "mac": "0A:1B:2C:05:60:00",
+    "serial_no": "SN-GEN-0560",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0565",
+    "host": "HOST-0565",
+    "ip": "10.2.53.58",
+    "mac": "0A:1B:2C:05:65:05",
+    "serial_no": "SN-GEN-0565",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0570",
+    "host": "HOST-0570",
+    "ip": "10.2.58.63",
+    "mac": "0A:1B:2C:05:70:00",
+    "serial_no": "SN-GEN-0570",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0575",
+    "host": "HOST-0575",
+    "ip": "10.2.63.68",
+    "mac": "0A:1B:2C:05:75:05",
+    "serial_no": "SN-GEN-0575",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0580",
+    "host": "HOST-0580",
+    "ip": "10.2.68.73",
+    "mac": "0A:1B:2C:05:80:00",
+    "serial_no": "SN-GEN-0580",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0585",
+    "host": "HOST-0585",
+    "ip": "10.2.73.78",
+    "mac": "0A:1B:2C:05:85:05",
+    "serial_no": "SN-GEN-0585",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0590",
+    "host": "HOST-0590",
+    "ip": "10.2.78.83",
+    "mac": "0A:1B:2C:05:90:00",
+    "serial_no": "SN-GEN-0590",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0595",
+    "host": "HOST-0595",
+    "ip": "10.2.83.88",
+    "mac": "0A:1B:2C:05:95:05",
+    "serial_no": "SN-GEN-0595",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0600",
+    "host": "HOST-0600",
+    "ip": "10.2.88.93",
+    "mac": "0A:1B:2C:06:00:00",
+    "serial_no": "SN-GEN-0600",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0605",
+    "host": "HOST-0605",
+    "ip": "10.2.93.98",
+    "mac": "0A:1B:2C:06:05:05",
+    "serial_no": "SN-GEN-0605",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0610",
+    "host": "HOST-0610",
+    "ip": "10.2.98.103",
+    "mac": "0A:1B:2C:06:10:00",
+    "serial_no": "SN-GEN-0610",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0615",
+    "host": "HOST-0615",
+    "ip": "10.2.103.108",
+    "mac": "0A:1B:2C:06:15:05",
+    "serial_no": "SN-GEN-0615",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0620",
+    "host": "HOST-0620",
+    "ip": "10.2.108.113",
+    "mac": "0A:1B:2C:06:20:00",
+    "serial_no": "SN-GEN-0620",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0625",
+    "host": "HOST-0625",
+    "ip": "10.2.113.118",
+    "mac": "0A:1B:2C:06:25:05",
+    "serial_no": "SN-GEN-0625",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0630",
+    "host": "HOST-0630",
+    "ip": "10.2.118.123",
+    "mac": "0A:1B:2C:06:30:00",
+    "serial_no": "SN-GEN-0630",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0635",
+    "host": "HOST-0635",
+    "ip": "10.2.123.128",
+    "mac": "0A:1B:2C:06:35:05",
+    "serial_no": "SN-GEN-0635",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0640",
+    "host": "HOST-0640",
+    "ip": "10.2.128.133",
+    "mac": "0A:1B:2C:06:40:00",
+    "serial_no": "SN-GEN-0640",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0645",
+    "host": "HOST-0645",
+    "ip": "10.2.133.138",
+    "mac": "0A:1B:2C:06:45:05",
+    "serial_no": "SN-GEN-0645",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0650",
+    "host": "HOST-0650",
+    "ip": "10.2.138.143",
+    "mac": "0A:1B:2C:06:50:00",
+    "serial_no": "SN-GEN-0650",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0655",
+    "host": "HOST-0655",
+    "ip": "10.2.143.148",
+    "mac": "0A:1B:2C:06:55:05",
+    "serial_no": "SN-GEN-0655",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0660",
+    "host": "HOST-0660",
+    "ip": "10.2.148.153",
+    "mac": "0A:1B:2C:06:60:00",
+    "serial_no": "SN-GEN-0660",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0665",
+    "host": "HOST-0665",
+    "ip": "10.2.153.158",
+    "mac": "0A:1B:2C:06:65:05",
+    "serial_no": "SN-GEN-0665",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0670",
+    "host": "HOST-0670",
+    "ip": "10.2.158.163",
+    "mac": "0A:1B:2C:06:70:00",
+    "serial_no": "SN-GEN-0670",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0675",
+    "host": "HOST-0675",
+    "ip": "10.2.163.168",
+    "mac": "0A:1B:2C:06:75:05",
+    "serial_no": "SN-GEN-0675",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0680",
+    "host": "HOST-0680",
+    "ip": "10.2.168.173",
+    "mac": "0A:1B:2C:06:80:00",
+    "serial_no": "SN-GEN-0680",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0685",
+    "host": "HOST-0685",
+    "ip": "10.2.173.178",
+    "mac": "0A:1B:2C:06:85:05",
+    "serial_no": "SN-GEN-0685",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0690",
+    "host": "HOST-0690",
+    "ip": "10.2.178.183",
+    "mac": "0A:1B:2C:06:90:00",
+    "serial_no": "SN-GEN-0690",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0695",
+    "host": "HOST-0695",
+    "ip": "10.2.183.188",
+    "mac": "0A:1B:2C:06:95:05",
+    "serial_no": "SN-GEN-0695",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0700",
+    "host": "HOST-0700",
+    "ip": "10.2.188.193",
+    "mac": "0A:1B:2C:07:00:00",
+    "serial_no": "SN-GEN-0700",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0705",
+    "host": "HOST-0705",
+    "ip": "10.2.193.198",
+    "mac": "0A:1B:2C:07:05:05",
+    "serial_no": "SN-GEN-0705",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0710",
+    "host": "HOST-0710",
+    "ip": "10.2.198.203",
+    "mac": "0A:1B:2C:07:10:00",
+    "serial_no": "SN-GEN-0710",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0715",
+    "host": "HOST-0715",
+    "ip": "10.2.203.208",
+    "mac": "0A:1B:2C:07:15:05",
+    "serial_no": "SN-GEN-0715",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0720",
+    "host": "HOST-0720",
+    "ip": "10.2.208.213",
+    "mac": "0A:1B:2C:07:20:00",
+    "serial_no": "SN-GEN-0720",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0725",
+    "host": "HOST-0725",
+    "ip": "10.2.213.218",
+    "mac": "0A:1B:2C:07:25:05",
+    "serial_no": "SN-GEN-0725",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0730",
+    "host": "HOST-0730",
+    "ip": "10.2.218.223",
+    "mac": "0A:1B:2C:07:30:00",
+    "serial_no": "SN-GEN-0730",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0735",
+    "host": "HOST-0735",
+    "ip": "10.2.223.228",
+    "mac": "0A:1B:2C:07:35:05",
+    "serial_no": "SN-GEN-0735",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0740",
+    "host": "HOST-0740",
+    "ip": "10.2.228.233",
+    "mac": "0A:1B:2C:07:40:00",
+    "serial_no": "SN-GEN-0740",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0745",
+    "host": "HOST-0745",
+    "ip": "10.2.233.238",
+    "mac": "0A:1B:2C:07:45:05",
+    "serial_no": "SN-GEN-0745",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0750",
+    "host": "HOST-0750",
+    "ip": "10.2.238.243",
+    "mac": "0A:1B:2C:07:50:00",
+    "serial_no": "SN-GEN-0750",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0755",
+    "host": "HOST-0755",
+    "ip": "10.2.243.248",
+    "mac": "0A:1B:2C:07:55:05",
+    "serial_no": "SN-GEN-0755",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0760",
+    "host": "HOST-0760",
+    "ip": "10.2.248.253",
+    "mac": "0A:1B:2C:07:60:00",
+    "serial_no": "SN-GEN-0760",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0765",
+    "host": "HOST-0765",
+    "ip": "10.2.253.4",
+    "mac": "0A:1B:2C:07:65:05",
+    "serial_no": "SN-GEN-0765",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0770",
+    "host": "HOST-0770",
+    "ip": "10.3.2.9",
+    "mac": "0A:1B:2C:07:70:00",
+    "serial_no": "SN-GEN-0770",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0775",
+    "host": "HOST-0775",
+    "ip": "10.3.7.14",
+    "mac": "0A:1B:2C:07:75:05",
+    "serial_no": "SN-GEN-0775",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0780",
+    "host": "HOST-0780",
+    "ip": "10.3.12.19",
+    "mac": "0A:1B:2C:07:80:00",
+    "serial_no": "SN-GEN-0780",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0785",
+    "host": "HOST-0785",
+    "ip": "10.3.17.24",
+    "mac": "0A:1B:2C:07:85:05",
+    "serial_no": "SN-GEN-0785",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0790",
+    "host": "HOST-0790",
+    "ip": "10.3.22.29",
+    "mac": "0A:1B:2C:07:90:00",
+    "serial_no": "SN-GEN-0790",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0795",
+    "host": "HOST-0795",
+    "ip": "10.3.27.34",
+    "mac": "0A:1B:2C:07:95:05",
+    "serial_no": "SN-GEN-0795",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0800",
+    "host": "HOST-0800",
+    "ip": "10.3.32.39",
+    "mac": "0A:1B:2C:08:00:00",
+    "serial_no": "SN-GEN-0800",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0805",
+    "host": "HOST-0805",
+    "ip": "10.3.37.44",
+    "mac": "0A:1B:2C:08:05:05",
+    "serial_no": "SN-GEN-0805",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0810",
+    "host": "HOST-0810",
+    "ip": "10.3.42.49",
+    "mac": "0A:1B:2C:08:10:00",
+    "serial_no": "SN-GEN-0810",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0815",
+    "host": "HOST-0815",
+    "ip": "10.3.47.54",
+    "mac": "0A:1B:2C:08:15:05",
+    "serial_no": "SN-GEN-0815",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0820",
+    "host": "HOST-0820",
+    "ip": "10.3.52.59",
+    "mac": "0A:1B:2C:08:20:00",
+    "serial_no": "SN-GEN-0820",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0825",
+    "host": "HOST-0825",
+    "ip": "10.3.57.64",
+    "mac": "0A:1B:2C:08:25:05",
+    "serial_no": "SN-GEN-0825",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0830",
+    "host": "HOST-0830",
+    "ip": "10.3.62.69",
+    "mac": "0A:1B:2C:08:30:00",
+    "serial_no": "SN-GEN-0830",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0835",
+    "host": "HOST-0835",
+    "ip": "10.3.67.74",
+    "mac": "0A:1B:2C:08:35:05",
+    "serial_no": "SN-GEN-0835",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0840",
+    "host": "HOST-0840",
+    "ip": "10.3.72.79",
+    "mac": "0A:1B:2C:08:40:00",
+    "serial_no": "SN-GEN-0840",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0845",
+    "host": "HOST-0845",
+    "ip": "10.3.77.84",
+    "mac": "0A:1B:2C:08:45:05",
+    "serial_no": "SN-GEN-0845",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0850",
+    "host": "HOST-0850",
+    "ip": "10.3.82.89",
+    "mac": "0A:1B:2C:08:50:00",
+    "serial_no": "SN-GEN-0850",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0855",
+    "host": "HOST-0855",
+    "ip": "10.3.87.94",
+    "mac": "0A:1B:2C:08:55:05",
+    "serial_no": "SN-GEN-0855",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0860",
+    "host": "HOST-0860",
+    "ip": "10.3.92.99",
+    "mac": "0A:1B:2C:08:60:00",
+    "serial_no": "SN-GEN-0860",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0865",
+    "host": "HOST-0865",
+    "ip": "10.3.97.104",
+    "mac": "0A:1B:2C:08:65:05",
+    "serial_no": "SN-GEN-0865",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0870",
+    "host": "HOST-0870",
+    "ip": "10.3.102.109",
+    "mac": "0A:1B:2C:08:70:00",
+    "serial_no": "SN-GEN-0870",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0875",
+    "host": "HOST-0875",
+    "ip": "10.3.107.114",
+    "mac": "0A:1B:2C:08:75:05",
+    "serial_no": "SN-GEN-0875",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0880",
+    "host": "HOST-0880",
+    "ip": "10.3.112.119",
+    "mac": "0A:1B:2C:08:80:00",
+    "serial_no": "SN-GEN-0880",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0885",
+    "host": "HOST-0885",
+    "ip": "10.3.117.124",
+    "mac": "0A:1B:2C:08:85:05",
+    "serial_no": "SN-GEN-0885",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0890",
+    "host": "HOST-0890",
+    "ip": "10.3.122.129",
+    "mac": "0A:1B:2C:08:90:00",
+    "serial_no": "SN-GEN-0890",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0895",
+    "host": "HOST-0895",
+    "ip": "10.3.127.134",
+    "mac": "0A:1B:2C:08:95:05",
+    "serial_no": "SN-GEN-0895",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0900",
+    "host": "HOST-0900",
+    "ip": "10.3.132.139",
+    "mac": "0A:1B:2C:09:00:00",
+    "serial_no": "SN-GEN-0900",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0905",
+    "host": "HOST-0905",
+    "ip": "10.3.137.144",
+    "mac": "0A:1B:2C:09:05:05",
+    "serial_no": "SN-GEN-0905",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0910",
+    "host": "HOST-0910",
+    "ip": "10.3.142.149",
+    "mac": "0A:1B:2C:09:10:00",
+    "serial_no": "SN-GEN-0910",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0915",
+    "host": "HOST-0915",
+    "ip": "10.3.147.154",
+    "mac": "0A:1B:2C:09:15:05",
+    "serial_no": "SN-GEN-0915",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0920",
+    "host": "HOST-0920",
+    "ip": "10.3.152.159",
+    "mac": "0A:1B:2C:09:20:00",
+    "serial_no": "SN-GEN-0920",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0925",
+    "host": "HOST-0925",
+    "ip": "10.3.157.164",
+    "mac": "0A:1B:2C:09:25:05",
+    "serial_no": "SN-GEN-0925",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0930",
+    "host": "HOST-0930",
+    "ip": "10.3.162.169",
+    "mac": "0A:1B:2C:09:30:00",
+    "serial_no": "SN-GEN-0930",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0935",
+    "host": "HOST-0935",
+    "ip": "10.3.167.174",
+    "mac": "0A:1B:2C:09:35:05",
+    "serial_no": "SN-GEN-0935",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0940",
+    "host": "HOST-0940",
+    "ip": "10.3.172.179",
+    "mac": "0A:1B:2C:09:40:00",
+    "serial_no": "SN-GEN-0940",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0945",
+    "host": "HOST-0945",
+    "ip": "10.3.177.184",
+    "mac": "0A:1B:2C:09:45:05",
+    "serial_no": "SN-GEN-0945",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0950",
+    "host": "HOST-0950",
+    "ip": "10.3.182.189",
+    "mac": "0A:1B:2C:09:50:00",
+    "serial_no": "SN-GEN-0950",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0955",
+    "host": "HOST-0955",
+    "ip": "10.3.187.194",
+    "mac": "0A:1B:2C:09:55:05",
+    "serial_no": "SN-GEN-0955",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0960",
+    "host": "HOST-0960",
+    "ip": "10.3.192.199",
+    "mac": "0A:1B:2C:09:60:00",
+    "serial_no": "SN-GEN-0960",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0965",
+    "host": "HOST-0965",
+    "ip": "10.3.197.204",
+    "mac": "0A:1B:2C:09:65:05",
+    "serial_no": "SN-GEN-0965",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0970",
+    "host": "HOST-0970",
+    "ip": "10.3.202.209",
+    "mac": "0A:1B:2C:09:70:00",
+    "serial_no": "SN-GEN-0970",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0975",
+    "host": "HOST-0975",
+    "ip": "10.3.207.214",
+    "mac": "0A:1B:2C:09:75:05",
+    "serial_no": "SN-GEN-0975",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0980",
+    "host": "HOST-0980",
+    "ip": "10.3.212.219",
+    "mac": "0A:1B:2C:09:80:00",
+    "serial_no": "SN-GEN-0980",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0985",
+    "host": "HOST-0985",
+    "ip": "10.3.217.224",
+    "mac": "0A:1B:2C:09:85:05",
+    "serial_no": "SN-GEN-0985",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0990",
+    "host": "HOST-0990",
+    "ip": "10.3.222.229",
+    "mac": "0A:1B:2C:09:90:00",
+    "serial_no": "SN-GEN-0990",
+    "device_class": "computer",
+    "compliant": false,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-0995",
+    "host": "HOST-0995",
+    "ip": "10.3.227.234",
+    "mac": "0A:1B:2C:09:95:05",
+    "serial_no": "SN-GEN-0995",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "endpoint_id": "FS-1000",
+    "host": "HOST-1000",
+    "ip": "10.3.232.239",
+    "mac": "0A:1B:2C:10:00:00",
+    "serial_no": "SN-GEN-1000",
+    "device_class": "computer",
+    "compliant": true,
+    "loaded_at": "2026-05-15T01:00:00Z"
+  }
+]

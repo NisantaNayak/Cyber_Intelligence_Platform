@@ -1,0 +1,4 @@
+node_modules/
+dist/
+*.log
+# NOTE: src/api-types.d.ts is intentionally committed (vendored from cip-backend)

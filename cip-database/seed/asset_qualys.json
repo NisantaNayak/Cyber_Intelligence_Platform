@@ -1,0 +1,5002 @@
+[
+  {
+    "qualys_asset_id": "QLY-0002",
+    "dns_name": "SRV-APP-07.corp.com",
+    "ip_address": "10.0.9.7",
+    "netbios_mac": "aabbcc990007",
+    "asset_serial": "SN-SRV-007",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0004",
+    "dns_name": "HOST-0004.corp.com",
+    "ip_address": "10.0.4.5",
+    "netbios_mac": "0a1b2c000404",
+    "asset_serial": "SN-GEN-0004",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0006",
+    "dns_name": "HOST-0006.corp.com",
+    "ip_address": "10.0.6.7",
+    "netbios_mac": "0a1b2c000606",
+    "asset_serial": "SN-GEN-0006",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0008",
+    "dns_name": "HOST-0008.corp.com",
+    "ip_address": "10.0.8.9",
+    "netbios_mac": "0a1b2c000808",
+    "asset_serial": "SN-GEN-0008",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0010",
+    "dns_name": "HOST-0010.corp.com",
+    "ip_address": "10.0.10.11",
+    "netbios_mac": "0a1b2c001000",
+    "asset_serial": "SN-GEN-0010",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0012",
+    "dns_name": "HOST-0012.corp.com",
+    "ip_address": "10.0.12.13",
+    "netbios_mac": "0a1b2c001202",
+    "asset_serial": "SN-GEN-0012",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0014",
+    "dns_name": "HOST-0014.corp.com",
+    "ip_address": "10.0.14.15",
+    "netbios_mac": "0a1b2c001404",
+    "asset_serial": "SN-GEN-0014",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0016",
+    "dns_name": "HOST-0016.corp.com",
+    "ip_address": "10.0.16.17",
+    "netbios_mac": "0a1b2c001606",
+    "asset_serial": "SN-GEN-0016",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0018",
+    "dns_name": "HOST-0018.corp.com",
+    "ip_address": "10.0.18.19",
+    "netbios_mac": "0a1b2c001808",
+    "asset_serial": "SN-GEN-0018",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0020",
+    "dns_name": "HOST-0020.corp.com",
+    "ip_address": "10.0.20.21",
+    "netbios_mac": "0a1b2c002000",
+    "asset_serial": "SN-GEN-0020",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0022",
+    "dns_name": "HOST-0022.corp.com",
+    "ip_address": "10.0.22.23",
+    "netbios_mac": "0a1b2c002202",
+    "asset_serial": "SN-GEN-0022",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0024",
+    "dns_name": "HOST-0024.corp.com",
+    "ip_address": "10.0.24.25",
+    "netbios_mac": "0a1b2c002404",
+    "asset_serial": "SN-GEN-0024",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0026",
+    "dns_name": "HOST-0026.corp.com",
+    "ip_address": "10.0.26.27",
+    "netbios_mac": "0a1b2c002606",
+    "asset_serial": "SN-GEN-0026",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0028",
+    "dns_name": "HOST-0028.corp.com",
+    "ip_address": "10.0.28.29",
+    "netbios_mac": "0a1b2c002808",
+    "asset_serial": "SN-GEN-0028",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0030",
+    "dns_name": "HOST-0030.corp.com",
+    "ip_address": "10.0.30.31",
+    "netbios_mac": "0a1b2c003000",
+    "asset_serial": "SN-GEN-0030",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0032",
+    "dns_name": "HOST-0032.corp.com",
+    "ip_address": "10.0.32.33",
+    "netbios_mac": "0a1b2c003202",
+    "asset_serial": "SN-GEN-0032",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0034",
+    "dns_name": "HOST-0034.corp.com",
+    "ip_address": "10.0.34.35",
+    "netbios_mac": "0a1b2c003404",
+    "asset_serial": "SN-GEN-0034",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0036",
+    "dns_name": "HOST-0036.corp.com",
+    "ip_address": "10.0.36.37",
+    "netbios_mac": "0a1b2c003606",
+    "asset_serial": "SN-GEN-0036",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0038",
+    "dns_name": "HOST-0038.corp.com",
+    "ip_address": "10.0.38.39",
+    "netbios_mac": "0a1b2c003808",
+    "asset_serial": "SN-GEN-0038",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0040",
+    "dns_name": "HOST-0040.corp.com",
+    "ip_address": "10.0.40.41",
+    "netbios_mac": "0a1b2c004000",
+    "asset_serial": "SN-GEN-0040",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0042",
+    "dns_name": "HOST-0042.corp.com",
+    "ip_address": "10.0.42.43",
+    "netbios_mac": "0a1b2c004202",
+    "asset_serial": "SN-GEN-0042",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0044",
+    "dns_name": "HOST-0044.corp.com",
+    "ip_address": "10.0.44.45",
+    "netbios_mac": "0a1b2c004404",
+    "asset_serial": "SN-GEN-0044",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0046",
+    "dns_name": "HOST-0046.corp.com",
+    "ip_address": "10.0.46.47",
+    "netbios_mac": "0a1b2c004606",
+    "asset_serial": "SN-GEN-0046",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0048",
+    "dns_name": "HOST-0048.corp.com",
+    "ip_address": "10.0.48.49",
+    "netbios_mac": "0a1b2c004808",
+    "asset_serial": "SN-GEN-0048",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0050",
+    "dns_name": "HOST-0050.corp.com",
+    "ip_address": "10.0.50.51",
+    "netbios_mac": "0a1b2c005000",
+    "asset_serial": "SN-GEN-0050",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0052",
+    "dns_name": "HOST-0052.corp.com",
+    "ip_address": "10.0.52.53",
+    "netbios_mac": "0a1b2c005202",
+    "asset_serial": "SN-GEN-0052",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0054",
+    "dns_name": "HOST-0054.corp.com",
+    "ip_address": "10.0.54.55",
+    "netbios_mac": "0a1b2c005404",
+    "asset_serial": "SN-GEN-0054",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0056",
+    "dns_name": "HOST-0056.corp.com",
+    "ip_address": "10.0.56.57",
+    "netbios_mac": "0a1b2c005606",
+    "asset_serial": "SN-GEN-0056",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0058",
+    "dns_name": "HOST-0058.corp.com",
+    "ip_address": "10.0.58.59",
+    "netbios_mac": "0a1b2c005808",
+    "asset_serial": "SN-GEN-0058",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0060",
+    "dns_name": "HOST-0060.corp.com",
+    "ip_address": "10.0.60.61",
+    "netbios_mac": "0a1b2c006000",
+    "asset_serial": "SN-GEN-0060",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0062",
+    "dns_name": "HOST-0062.corp.com",
+    "ip_address": "10.0.62.63",
+    "netbios_mac": "0a1b2c006202",
+    "asset_serial": "SN-GEN-0062",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0064",
+    "dns_name": "HOST-0064.corp.com",
+    "ip_address": "10.0.64.65",
+    "netbios_mac": "0a1b2c006404",
+    "asset_serial": "SN-GEN-0064",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0066",
+    "dns_name": "HOST-0066.corp.com",
+    "ip_address": "10.0.66.67",
+    "netbios_mac": "0a1b2c006606",
+    "asset_serial": "SN-GEN-0066",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0068",
+    "dns_name": "HOST-0068.corp.com",
+    "ip_address": "10.0.68.69",
+    "netbios_mac": "0a1b2c006808",
+    "asset_serial": "SN-GEN-0068",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0070",
+    "dns_name": "HOST-0070.corp.com",
+    "ip_address": "10.0.70.71",
+    "netbios_mac": "0a1b2c007000",
+    "asset_serial": "SN-GEN-0070",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0072",
+    "dns_name": "HOST-0072.corp.com",
+    "ip_address": "10.0.72.73",
+    "netbios_mac": "0a1b2c007202",
+    "asset_serial": "SN-GEN-0072",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0074",
+    "dns_name": "HOST-0074.corp.com",
+    "ip_address": "10.0.74.75",
+    "netbios_mac": "0a1b2c007404",
+    "asset_serial": "SN-GEN-0074",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0076",
+    "dns_name": "HOST-0076.corp.com",
+    "ip_address": "10.0.76.77",
+    "netbios_mac": "0a1b2c007606",
+    "asset_serial": "SN-GEN-0076",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0078",
+    "dns_name": "HOST-0078.corp.com",
+    "ip_address": "10.0.78.79",
+    "netbios_mac": "0a1b2c007808",
+    "asset_serial": "SN-GEN-0078",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0080",
+    "dns_name": "HOST-0080.corp.com",
+    "ip_address": "10.0.80.81",
+    "netbios_mac": "0a1b2c008000",
+    "asset_serial": "SN-GEN-0080",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0082",
+    "dns_name": "HOST-0082.corp.com",
+    "ip_address": "10.0.82.83",
+    "netbios_mac": "0a1b2c008202",
+    "asset_serial": "SN-GEN-0082",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0084",
+    "dns_name": "HOST-0084.corp.com",
+    "ip_address": "10.0.84.85",
+    "netbios_mac": "0a1b2c008404",
+    "asset_serial": "SN-GEN-0084",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0086",
+    "dns_name": "HOST-0086.corp.com",
+    "ip_address": "10.0.86.87",
+    "netbios_mac": "0a1b2c008606",
+    "asset_serial": "SN-GEN-0086",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0088",
+    "dns_name": "HOST-0088.corp.com",
+    "ip_address": "10.0.88.89",
+    "netbios_mac": "0a1b2c008808",
+    "asset_serial": "SN-GEN-0088",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0090",
+    "dns_name": "HOST-0090.corp.com",
+    "ip_address": "10.0.90.91",
+    "netbios_mac": "0a1b2c009000",
+    "asset_serial": "SN-GEN-0090",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0092",
+    "dns_name": "HOST-0092.corp.com",
+    "ip_address": "10.0.92.93",
+    "netbios_mac": "0a1b2c009202",
+    "asset_serial": "SN-GEN-0092",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0094",
+    "dns_name": "HOST-0094.corp.com",
+    "ip_address": "10.0.94.95",
+    "netbios_mac": "0a1b2c009404",
+    "asset_serial": "SN-GEN-0094",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0096",
+    "dns_name": "HOST-0096.corp.com",
+    "ip_address": "10.0.96.97",
+    "netbios_mac": "0a1b2c009606",
+    "asset_serial": "SN-GEN-0096",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0098",
+    "dns_name": "HOST-0098.corp.com",
+    "ip_address": "10.0.98.99",
+    "netbios_mac": "0a1b2c009808",
+    "asset_serial": "SN-GEN-0098",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0100",
+    "dns_name": "HOST-0100.corp.com",
+    "ip_address": "10.0.100.101",
+    "netbios_mac": "0a1b2c010000",
+    "asset_serial": "SN-GEN-0100",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0102",
+    "dns_name": "HOST-0102.corp.com",
+    "ip_address": "10.0.102.103",
+    "netbios_mac": "0a1b2c010202",
+    "asset_serial": "SN-GEN-0102",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0104",
+    "dns_name": "HOST-0104.corp.com",
+    "ip_address": "10.0.104.105",
+    "netbios_mac": "0a1b2c010404",
+    "asset_serial": "SN-GEN-0104",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0106",
+    "dns_name": "HOST-0106.corp.com",
+    "ip_address": "10.0.106.107",
+    "netbios_mac": "0a1b2c010606",
+    "asset_serial": "SN-GEN-0106",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0108",
+    "dns_name": "HOST-0108.corp.com",
+    "ip_address": "10.0.108.109",
+    "netbios_mac": "0a1b2c010808",
+    "asset_serial": "SN-GEN-0108",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0110",
+    "dns_name": "HOST-0110.corp.com",
+    "ip_address": "10.0.110.111",
+    "netbios_mac": "0a1b2c011000",
+    "asset_serial": "SN-GEN-0110",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0112",
+    "dns_name": "HOST-0112.corp.com",
+    "ip_address": "10.0.112.113",
+    "netbios_mac": "0a1b2c011202",
+    "asset_serial": "SN-GEN-0112",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0114",
+    "dns_name": "HOST-0114.corp.com",
+    "ip_address": "10.0.114.115",
+    "netbios_mac": "0a1b2c011404",
+    "asset_serial": "SN-GEN-0114",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0116",
+    "dns_name": "HOST-0116.corp.com",
+    "ip_address": "10.0.116.117",
+    "netbios_mac": "0a1b2c011606",
+    "asset_serial": "SN-GEN-0116",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0118",
+    "dns_name": "HOST-0118.corp.com",
+    "ip_address": "10.0.118.119",
+    "netbios_mac": "0a1b2c011808",
+    "asset_serial": "SN-GEN-0118",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0120",
+    "dns_name": "HOST-0120.corp.com",
+    "ip_address": "10.0.120.121",
+    "netbios_mac": "0a1b2c012000",
+    "asset_serial": "SN-GEN-0120",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0122",
+    "dns_name": "HOST-0122.corp.com",
+    "ip_address": "10.0.122.123",
+    "netbios_mac": "0a1b2c012202",
+    "asset_serial": "SN-GEN-0122",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0124",
+    "dns_name": "HOST-0124.corp.com",
+    "ip_address": "10.0.124.125",
+    "netbios_mac": "0a1b2c012404",
+    "asset_serial": "SN-GEN-0124",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0126",
+    "dns_name": "HOST-0126.corp.com",
+    "ip_address": "10.0.126.127",
+    "netbios_mac": "0a1b2c012606",
+    "asset_serial": "SN-GEN-0126",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0128",
+    "dns_name": "HOST-0128.corp.com",
+    "ip_address": "10.0.128.129",
+    "netbios_mac": "0a1b2c012808",
+    "asset_serial": "SN-GEN-0128",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0130",
+    "dns_name": "HOST-0130.corp.com",
+    "ip_address": "10.0.130.131",
+    "netbios_mac": "0a1b2c013000",
+    "asset_serial": "SN-GEN-0130",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0132",
+    "dns_name": "HOST-0132.corp.com",
+    "ip_address": "10.0.132.133",
+    "netbios_mac": "0a1b2c013202",
+    "asset_serial": "SN-GEN-0132",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0134",
+    "dns_name": "HOST-0134.corp.com",
+    "ip_address": "10.0.134.135",
+    "netbios_mac": "0a1b2c013404",
+    "asset_serial": "SN-GEN-0134",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0136",
+    "dns_name": "HOST-0136.corp.com",
+    "ip_address": "10.0.136.137",
+    "netbios_mac": "0a1b2c013606",
+    "asset_serial": "SN-GEN-0136",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0138",
+    "dns_name": "HOST-0138.corp.com",
+    "ip_address": "10.0.138.139",
+    "netbios_mac": "0a1b2c013808",
+    "asset_serial": "SN-GEN-0138",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0140",
+    "dns_name": "HOST-0140.corp.com",
+    "ip_address": "10.0.140.141",
+    "netbios_mac": "0a1b2c014000",
+    "asset_serial": "SN-GEN-0140",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0142",
+    "dns_name": "HOST-0142.corp.com",
+    "ip_address": "10.0.142.143",
+    "netbios_mac": "0a1b2c014202",
+    "asset_serial": "SN-GEN-0142",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0144",
+    "dns_name": "HOST-0144.corp.com",
+    "ip_address": "10.0.144.145",
+    "netbios_mac": "0a1b2c014404",
+    "asset_serial": "SN-GEN-0144",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0146",
+    "dns_name": "HOST-0146.corp.com",
+    "ip_address": "10.0.146.147",
+    "netbios_mac": "0a1b2c014606",
+    "asset_serial": "SN-GEN-0146",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0148",
+    "dns_name": "HOST-0148.corp.com",
+    "ip_address": "10.0.148.149",
+    "netbios_mac": "0a1b2c014808",
+    "asset_serial": "SN-GEN-0148",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0150",
+    "dns_name": "HOST-0150.corp.com",
+    "ip_address": "10.0.150.151",
+    "netbios_mac": "0a1b2c015000",
+    "asset_serial": "SN-GEN-0150",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0152",
+    "dns_name": "HOST-0152.corp.com",
+    "ip_address": "10.0.152.153",
+    "netbios_mac": "0a1b2c015202",
+    "asset_serial": "SN-GEN-0152",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0154",
+    "dns_name": "HOST-0154.corp.com",
+    "ip_address": "10.0.154.155",
+    "netbios_mac": "0a1b2c015404",
+    "asset_serial": "SN-GEN-0154",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0156",
+    "dns_name": "HOST-0156.corp.com",
+    "ip_address": "10.0.156.157",
+    "netbios_mac": "0a1b2c015606",
+    "asset_serial": "SN-GEN-0156",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0158",
+    "dns_name": "HOST-0158.corp.com",
+    "ip_address": "10.0.158.159",
+    "netbios_mac": "0a1b2c015808",
+    "asset_serial": "SN-GEN-0158",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0160",
+    "dns_name": "HOST-0160.corp.com",
+    "ip_address": "10.0.160.161",
+    "netbios_mac": "0a1b2c016000",
+    "asset_serial": "SN-GEN-0160",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0162",
+    "dns_name": "HOST-0162.corp.com",
+    "ip_address": "10.0.162.163",
+    "netbios_mac": "0a1b2c016202",
+    "asset_serial": "SN-GEN-0162",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0164",
+    "dns_name": "HOST-0164.corp.com",
+    "ip_address": "10.0.164.165",
+    "netbios_mac": "0a1b2c016404",
+    "asset_serial": "SN-GEN-0164",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0166",
+    "dns_name": "HOST-0166.corp.com",
+    "ip_address": "10.0.166.167",
+    "netbios_mac": "0a1b2c016606",
+    "asset_serial": "SN-GEN-0166",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0168",
+    "dns_name": "HOST-0168.corp.com",
+    "ip_address": "10.0.168.169",
+    "netbios_mac": "0a1b2c016808",
+    "asset_serial": "SN-GEN-0168",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0170",
+    "dns_name": "HOST-0170.corp.com",
+    "ip_address": "10.0.170.171",
+    "netbios_mac": "0a1b2c017000",
+    "asset_serial": "SN-GEN-0170",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0172",
+    "dns_name": "HOST-0172.corp.com",
+    "ip_address": "10.0.172.173",
+    "netbios_mac": "0a1b2c017202",
+    "asset_serial": "SN-GEN-0172",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0174",
+    "dns_name": "HOST-0174.corp.com",
+    "ip_address": "10.0.174.175",
+    "netbios_mac": "0a1b2c017404",
+    "asset_serial": "SN-GEN-0174",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0176",
+    "dns_name": "HOST-0176.corp.com",
+    "ip_address": "10.0.176.177",
+    "netbios_mac": "0a1b2c017606",
+    "asset_serial": "SN-GEN-0176",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0178",
+    "dns_name": "HOST-0178.corp.com",
+    "ip_address": "10.0.178.179",
+    "netbios_mac": "0a1b2c017808",
+    "asset_serial": "SN-GEN-0178",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0180",
+    "dns_name": "HOST-0180.corp.com",
+    "ip_address": "10.0.180.181",
+    "netbios_mac": "0a1b2c018000",
+    "asset_serial": "SN-GEN-0180",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0182",
+    "dns_name": "HOST-0182.corp.com",
+    "ip_address": "10.0.182.183",
+    "netbios_mac": "0a1b2c018202",
+    "asset_serial": "SN-GEN-0182",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0184",
+    "dns_name": "HOST-0184.corp.com",
+    "ip_address": "10.0.184.185",
+    "netbios_mac": "0a1b2c018404",
+    "asset_serial": "SN-GEN-0184",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0186",
+    "dns_name": "HOST-0186.corp.com",
+    "ip_address": "10.0.186.187",
+    "netbios_mac": "0a1b2c018606",
+    "asset_serial": "SN-GEN-0186",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0188",
+    "dns_name": "HOST-0188.corp.com",
+    "ip_address": "10.0.188.189",
+    "netbios_mac": "0a1b2c018808",
+    "asset_serial": "SN-GEN-0188",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0190",
+    "dns_name": "HOST-0190.corp.com",
+    "ip_address": "10.0.190.191",
+    "netbios_mac": "0a1b2c019000",
+    "asset_serial": "SN-GEN-0190",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0192",
+    "dns_name": "HOST-0192.corp.com",
+    "ip_address": "10.0.192.193",
+    "netbios_mac": "0a1b2c019202",
+    "asset_serial": "SN-GEN-0192",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0194",
+    "dns_name": "HOST-0194.corp.com",
+    "ip_address": "10.0.194.195",
+    "netbios_mac": "0a1b2c019404",
+    "asset_serial": "SN-GEN-0194",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0196",
+    "dns_name": "HOST-0196.corp.com",
+    "ip_address": "10.0.196.197",
+    "netbios_mac": "0a1b2c019606",
+    "asset_serial": "SN-GEN-0196",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0198",
+    "dns_name": "HOST-0198.corp.com",
+    "ip_address": "10.0.198.199",
+    "netbios_mac": "0a1b2c019808",
+    "asset_serial": "SN-GEN-0198",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0200",
+    "dns_name": "HOST-0200.corp.com",
+    "ip_address": "10.0.200.201",
+    "netbios_mac": "0a1b2c020000",
+    "asset_serial": "SN-GEN-0200",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0202",
+    "dns_name": "HOST-0202.corp.com",
+    "ip_address": "10.0.202.203",
+    "netbios_mac": "0a1b2c020202",
+    "asset_serial": "SN-GEN-0202",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0204",
+    "dns_name": "HOST-0204.corp.com",
+    "ip_address": "10.0.204.205",
+    "netbios_mac": "0a1b2c020404",
+    "asset_serial": "SN-GEN-0204",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0206",
+    "dns_name": "HOST-0206.corp.com",
+    "ip_address": "10.0.206.207",
+    "netbios_mac": "0a1b2c020606",
+    "asset_serial": "SN-GEN-0206",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0208",
+    "dns_name": "HOST-0208.corp.com",
+    "ip_address": "10.0.208.209",
+    "netbios_mac": "0a1b2c020808",
+    "asset_serial": "SN-GEN-0208",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0210",
+    "dns_name": "HOST-0210.corp.com",
+    "ip_address": "10.0.210.211",
+    "netbios_mac": "0a1b2c021000",
+    "asset_serial": "SN-GEN-0210",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0212",
+    "dns_name": "HOST-0212.corp.com",
+    "ip_address": "10.0.212.213",
+    "netbios_mac": "0a1b2c021202",
+    "asset_serial": "SN-GEN-0212",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0214",
+    "dns_name": "HOST-0214.corp.com",
+    "ip_address": "10.0.214.215",
+    "netbios_mac": "0a1b2c021404",
+    "asset_serial": "SN-GEN-0214",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0216",
+    "dns_name": "HOST-0216.corp.com",
+    "ip_address": "10.0.216.217",
+    "netbios_mac": "0a1b2c021606",
+    "asset_serial": "SN-GEN-0216",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0218",
+    "dns_name": "HOST-0218.corp.com",
+    "ip_address": "10.0.218.219",
+    "netbios_mac": "0a1b2c021808",
+    "asset_serial": "SN-GEN-0218",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0220",
+    "dns_name": "HOST-0220.corp.com",
+    "ip_address": "10.0.220.221",
+    "netbios_mac": "0a1b2c022000",
+    "asset_serial": "SN-GEN-0220",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0222",
+    "dns_name": "HOST-0222.corp.com",
+    "ip_address": "10.0.222.223",
+    "netbios_mac": "0a1b2c022202",
+    "asset_serial": "SN-GEN-0222",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0224",
+    "dns_name": "HOST-0224.corp.com",
+    "ip_address": "10.0.224.225",
+    "netbios_mac": "0a1b2c022404",
+    "asset_serial": "SN-GEN-0224",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0226",
+    "dns_name": "HOST-0226.corp.com",
+    "ip_address": "10.0.226.227",
+    "netbios_mac": "0a1b2c022606",
+    "asset_serial": "SN-GEN-0226",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0228",
+    "dns_name": "HOST-0228.corp.com",
+    "ip_address": "10.0.228.229",
+    "netbios_mac": "0a1b2c022808",
+    "asset_serial": "SN-GEN-0228",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0230",
+    "dns_name": "HOST-0230.corp.com",
+    "ip_address": "10.0.230.231",
+    "netbios_mac": "0a1b2c023000",
+    "asset_serial": "SN-GEN-0230",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0232",
+    "dns_name": "HOST-0232.corp.com",
+    "ip_address": "10.0.232.233",
+    "netbios_mac": "0a1b2c023202",
+    "asset_serial": "SN-GEN-0232",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0234",
+    "dns_name": "HOST-0234.corp.com",
+    "ip_address": "10.0.234.235",
+    "netbios_mac": "0a1b2c023404",
+    "asset_serial": "SN-GEN-0234",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0236",
+    "dns_name": "HOST-0236.corp.com",
+    "ip_address": "10.0.236.237",
+    "netbios_mac": "0a1b2c023606",
+    "asset_serial": "SN-GEN-0236",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0238",
+    "dns_name": "HOST-0238.corp.com",
+    "ip_address": "10.0.238.239",
+    "netbios_mac": "0a1b2c023808",
+    "asset_serial": "SN-GEN-0238",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0240",
+    "dns_name": "HOST-0240.corp.com",
+    "ip_address": "10.0.240.241",
+    "netbios_mac": "0a1b2c024000",
+    "asset_serial": "SN-GEN-0240",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0242",
+    "dns_name": "HOST-0242.corp.com",
+    "ip_address": "10.0.242.243",
+    "netbios_mac": "0a1b2c024202",
+    "asset_serial": "SN-GEN-0242",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0244",
+    "dns_name": "HOST-0244.corp.com",
+    "ip_address": "10.0.244.245",
+    "netbios_mac": "0a1b2c024404",
+    "asset_serial": "SN-GEN-0244",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0246",
+    "dns_name": "HOST-0246.corp.com",
+    "ip_address": "10.0.246.247",
+    "netbios_mac": "0a1b2c024606",
+    "asset_serial": "SN-GEN-0246",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0248",
+    "dns_name": "HOST-0248.corp.com",
+    "ip_address": "10.0.248.249",
+    "netbios_mac": "0a1b2c024808",
+    "asset_serial": "SN-GEN-0248",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0250",
+    "dns_name": "HOST-0250.corp.com",
+    "ip_address": "10.0.250.251",
+    "netbios_mac": "0a1b2c025000",
+    "asset_serial": "SN-GEN-0250",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0252",
+    "dns_name": "HOST-0252.corp.com",
+    "ip_address": "10.0.252.253",
+    "netbios_mac": "0a1b2c025202",
+    "asset_serial": "SN-GEN-0252",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0254",
+    "dns_name": "HOST-0254.corp.com",
+    "ip_address": "10.0.254.1",
+    "netbios_mac": "0a1b2c025404",
+    "asset_serial": "SN-GEN-0254",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0256",
+    "dns_name": "HOST-0256.corp.com",
+    "ip_address": "10.1.0.3",
+    "netbios_mac": "0a1b2c025606",
+    "asset_serial": "SN-GEN-0256",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0258",
+    "dns_name": "HOST-0258.corp.com",
+    "ip_address": "10.1.2.5",
+    "netbios_mac": "0a1b2c025808",
+    "asset_serial": "SN-GEN-0258",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0260",
+    "dns_name": "HOST-0260.corp.com",
+    "ip_address": "10.1.4.7",
+    "netbios_mac": "0a1b2c026000",
+    "asset_serial": "SN-GEN-0260",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0262",
+    "dns_name": "HOST-0262.corp.com",
+    "ip_address": "10.1.6.9",
+    "netbios_mac": "0a1b2c026202",
+    "asset_serial": "SN-GEN-0262",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0264",
+    "dns_name": "HOST-0264.corp.com",
+    "ip_address": "10.1.8.11",
+    "netbios_mac": "0a1b2c026404",
+    "asset_serial": "SN-GEN-0264",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0266",
+    "dns_name": "HOST-0266.corp.com",
+    "ip_address": "10.1.10.13",
+    "netbios_mac": "0a1b2c026606",
+    "asset_serial": "SN-GEN-0266",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0268",
+    "dns_name": "HOST-0268.corp.com",
+    "ip_address": "10.1.12.15",
+    "netbios_mac": "0a1b2c026808",
+    "asset_serial": "SN-GEN-0268",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0270",
+    "dns_name": "HOST-0270.corp.com",
+    "ip_address": "10.1.14.17",
+    "netbios_mac": "0a1b2c027000",
+    "asset_serial": "SN-GEN-0270",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0272",
+    "dns_name": "HOST-0272.corp.com",
+    "ip_address": "10.1.16.19",
+    "netbios_mac": "0a1b2c027202",
+    "asset_serial": "SN-GEN-0272",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0274",
+    "dns_name": "HOST-0274.corp.com",
+    "ip_address": "10.1.18.21",
+    "netbios_mac": "0a1b2c027404",
+    "asset_serial": "SN-GEN-0274",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0276",
+    "dns_name": "HOST-0276.corp.com",
+    "ip_address": "10.1.20.23",
+    "netbios_mac": "0a1b2c027606",
+    "asset_serial": "SN-GEN-0276",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0278",
+    "dns_name": "HOST-0278.corp.com",
+    "ip_address": "10.1.22.25",
+    "netbios_mac": "0a1b2c027808",
+    "asset_serial": "SN-GEN-0278",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0280",
+    "dns_name": "HOST-0280.corp.com",
+    "ip_address": "10.1.24.27",
+    "netbios_mac": "0a1b2c028000",
+    "asset_serial": "SN-GEN-0280",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0282",
+    "dns_name": "HOST-0282.corp.com",
+    "ip_address": "10.1.26.29",
+    "netbios_mac": "0a1b2c028202",
+    "asset_serial": "SN-GEN-0282",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0284",
+    "dns_name": "HOST-0284.corp.com",
+    "ip_address": "10.1.28.31",
+    "netbios_mac": "0a1b2c028404",
+    "asset_serial": "SN-GEN-0284",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0286",
+    "dns_name": "HOST-0286.corp.com",
+    "ip_address": "10.1.30.33",
+    "netbios_mac": "0a1b2c028606",
+    "asset_serial": "SN-GEN-0286",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0288",
+    "dns_name": "HOST-0288.corp.com",
+    "ip_address": "10.1.32.35",
+    "netbios_mac": "0a1b2c028808",
+    "asset_serial": "SN-GEN-0288",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0290",
+    "dns_name": "HOST-0290.corp.com",
+    "ip_address": "10.1.34.37",
+    "netbios_mac": "0a1b2c029000",
+    "asset_serial": "SN-GEN-0290",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0292",
+    "dns_name": "HOST-0292.corp.com",
+    "ip_address": "10.1.36.39",
+    "netbios_mac": "0a1b2c029202",
+    "asset_serial": "SN-GEN-0292",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0294",
+    "dns_name": "HOST-0294.corp.com",
+    "ip_address": "10.1.38.41",
+    "netbios_mac": "0a1b2c029404",
+    "asset_serial": "SN-GEN-0294",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0296",
+    "dns_name": "HOST-0296.corp.com",
+    "ip_address": "10.1.40.43",
+    "netbios_mac": "0a1b2c029606",
+    "asset_serial": "SN-GEN-0296",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0298",
+    "dns_name": "HOST-0298.corp.com",
+    "ip_address": "10.1.42.45",
+    "netbios_mac": "0a1b2c029808",
+    "asset_serial": "SN-GEN-0298",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0300",
+    "dns_name": "HOST-0300.corp.com",
+    "ip_address": "10.1.44.47",
+    "netbios_mac": "0a1b2c030000",
+    "asset_serial": "SN-GEN-0300",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0302",
+    "dns_name": "HOST-0302.corp.com",
+    "ip_address": "10.1.46.49",
+    "netbios_mac": "0a1b2c030202",
+    "asset_serial": "SN-GEN-0302",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0304",
+    "dns_name": "HOST-0304.corp.com",
+    "ip_address": "10.1.48.51",
+    "netbios_mac": "0a1b2c030404",
+    "asset_serial": "SN-GEN-0304",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0306",
+    "dns_name": "HOST-0306.corp.com",
+    "ip_address": "10.1.50.53",
+    "netbios_mac": "0a1b2c030606",
+    "asset_serial": "SN-GEN-0306",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0308",
+    "dns_name": "HOST-0308.corp.com",
+    "ip_address": "10.1.52.55",
+    "netbios_mac": "0a1b2c030808",
+    "asset_serial": "SN-GEN-0308",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0310",
+    "dns_name": "HOST-0310.corp.com",
+    "ip_address": "10.1.54.57",
+    "netbios_mac": "0a1b2c031000",
+    "asset_serial": "SN-GEN-0310",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0312",
+    "dns_name": "HOST-0312.corp.com",
+    "ip_address": "10.1.56.59",
+    "netbios_mac": "0a1b2c031202",
+    "asset_serial": "SN-GEN-0312",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0314",
+    "dns_name": "HOST-0314.corp.com",
+    "ip_address": "10.1.58.61",
+    "netbios_mac": "0a1b2c031404",
+    "asset_serial": "SN-GEN-0314",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0316",
+    "dns_name": "HOST-0316.corp.com",
+    "ip_address": "10.1.60.63",
+    "netbios_mac": "0a1b2c031606",
+    "asset_serial": "SN-GEN-0316",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0318",
+    "dns_name": "HOST-0318.corp.com",
+    "ip_address": "10.1.62.65",
+    "netbios_mac": "0a1b2c031808",
+    "asset_serial": "SN-GEN-0318",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0320",
+    "dns_name": "HOST-0320.corp.com",
+    "ip_address": "10.1.64.67",
+    "netbios_mac": "0a1b2c032000",
+    "asset_serial": "SN-GEN-0320",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0322",
+    "dns_name": "HOST-0322.corp.com",
+    "ip_address": "10.1.66.69",
+    "netbios_mac": "0a1b2c032202",
+    "asset_serial": "SN-GEN-0322",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0324",
+    "dns_name": "HOST-0324.corp.com",
+    "ip_address": "10.1.68.71",
+    "netbios_mac": "0a1b2c032404",
+    "asset_serial": "SN-GEN-0324",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0326",
+    "dns_name": "HOST-0326.corp.com",
+    "ip_address": "10.1.70.73",
+    "netbios_mac": "0a1b2c032606",
+    "asset_serial": "SN-GEN-0326",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0328",
+    "dns_name": "HOST-0328.corp.com",
+    "ip_address": "10.1.72.75",
+    "netbios_mac": "0a1b2c032808",
+    "asset_serial": "SN-GEN-0328",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0330",
+    "dns_name": "HOST-0330.corp.com",
+    "ip_address": "10.1.74.77",
+    "netbios_mac": "0a1b2c033000",
+    "asset_serial": "SN-GEN-0330",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0332",
+    "dns_name": "HOST-0332.corp.com",
+    "ip_address": "10.1.76.79",
+    "netbios_mac": "0a1b2c033202",
+    "asset_serial": "SN-GEN-0332",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0334",
+    "dns_name": "HOST-0334.corp.com",
+    "ip_address": "10.1.78.81",
+    "netbios_mac": "0a1b2c033404",
+    "asset_serial": "SN-GEN-0334",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0336",
+    "dns_name": "HOST-0336.corp.com",
+    "ip_address": "10.1.80.83",
+    "netbios_mac": "0a1b2c033606",
+    "asset_serial": "SN-GEN-0336",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0338",
+    "dns_name": "HOST-0338.corp.com",
+    "ip_address": "10.1.82.85",
+    "netbios_mac": "0a1b2c033808",
+    "asset_serial": "SN-GEN-0338",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0340",
+    "dns_name": "HOST-0340.corp.com",
+    "ip_address": "10.1.84.87",
+    "netbios_mac": "0a1b2c034000",
+    "asset_serial": "SN-GEN-0340",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0342",
+    "dns_name": "HOST-0342.corp.com",
+    "ip_address": "10.1.86.89",
+    "netbios_mac": "0a1b2c034202",
+    "asset_serial": "SN-GEN-0342",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0344",
+    "dns_name": "HOST-0344.corp.com",
+    "ip_address": "10.1.88.91",
+    "netbios_mac": "0a1b2c034404",
+    "asset_serial": "SN-GEN-0344",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0346",
+    "dns_name": "HOST-0346.corp.com",
+    "ip_address": "10.1.90.93",
+    "netbios_mac": "0a1b2c034606",
+    "asset_serial": "SN-GEN-0346",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0348",
+    "dns_name": "HOST-0348.corp.com",
+    "ip_address": "10.1.92.95",
+    "netbios_mac": "0a1b2c034808",
+    "asset_serial": "SN-GEN-0348",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0350",
+    "dns_name": "HOST-0350.corp.com",
+    "ip_address": "10.1.94.97",
+    "netbios_mac": "0a1b2c035000",
+    "asset_serial": "SN-GEN-0350",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0352",
+    "dns_name": "HOST-0352.corp.com",
+    "ip_address": "10.1.96.99",
+    "netbios_mac": "0a1b2c035202",
+    "asset_serial": "SN-GEN-0352",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0354",
+    "dns_name": "HOST-0354.corp.com",
+    "ip_address": "10.1.98.101",
+    "netbios_mac": "0a1b2c035404",
+    "asset_serial": "SN-GEN-0354",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0356",
+    "dns_name": "HOST-0356.corp.com",
+    "ip_address": "10.1.100.103",
+    "netbios_mac": "0a1b2c035606",
+    "asset_serial": "SN-GEN-0356",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0358",
+    "dns_name": "HOST-0358.corp.com",
+    "ip_address": "10.1.102.105",
+    "netbios_mac": "0a1b2c035808",
+    "asset_serial": "SN-GEN-0358",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0360",
+    "dns_name": "HOST-0360.corp.com",
+    "ip_address": "10.1.104.107",
+    "netbios_mac": "0a1b2c036000",
+    "asset_serial": "SN-GEN-0360",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0362",
+    "dns_name": "HOST-0362.corp.com",
+    "ip_address": "10.1.106.109",
+    "netbios_mac": "0a1b2c036202",
+    "asset_serial": "SN-GEN-0362",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0364",
+    "dns_name": "HOST-0364.corp.com",
+    "ip_address": "10.1.108.111",
+    "netbios_mac": "0a1b2c036404",
+    "asset_serial": "SN-GEN-0364",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0366",
+    "dns_name": "HOST-0366.corp.com",
+    "ip_address": "10.1.110.113",
+    "netbios_mac": "0a1b2c036606",
+    "asset_serial": "SN-GEN-0366",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0368",
+    "dns_name": "HOST-0368.corp.com",
+    "ip_address": "10.1.112.115",
+    "netbios_mac": "0a1b2c036808",
+    "asset_serial": "SN-GEN-0368",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0370",
+    "dns_name": "HOST-0370.corp.com",
+    "ip_address": "10.1.114.117",
+    "netbios_mac": "0a1b2c037000",
+    "asset_serial": "SN-GEN-0370",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0372",
+    "dns_name": "HOST-0372.corp.com",
+    "ip_address": "10.1.116.119",
+    "netbios_mac": "0a1b2c037202",
+    "asset_serial": "SN-GEN-0372",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0374",
+    "dns_name": "HOST-0374.corp.com",
+    "ip_address": "10.1.118.121",
+    "netbios_mac": "0a1b2c037404",
+    "asset_serial": "SN-GEN-0374",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0376",
+    "dns_name": "HOST-0376.corp.com",
+    "ip_address": "10.1.120.123",
+    "netbios_mac": "0a1b2c037606",
+    "asset_serial": "SN-GEN-0376",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0378",
+    "dns_name": "HOST-0378.corp.com",
+    "ip_address": "10.1.122.125",
+    "netbios_mac": "0a1b2c037808",
+    "asset_serial": "SN-GEN-0378",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0380",
+    "dns_name": "HOST-0380.corp.com",
+    "ip_address": "10.1.124.127",
+    "netbios_mac": "0a1b2c038000",
+    "asset_serial": "SN-GEN-0380",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0382",
+    "dns_name": "HOST-0382.corp.com",
+    "ip_address": "10.1.126.129",
+    "netbios_mac": "0a1b2c038202",
+    "asset_serial": "SN-GEN-0382",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0384",
+    "dns_name": "HOST-0384.corp.com",
+    "ip_address": "10.1.128.131",
+    "netbios_mac": "0a1b2c038404",
+    "asset_serial": "SN-GEN-0384",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0386",
+    "dns_name": "HOST-0386.corp.com",
+    "ip_address": "10.1.130.133",
+    "netbios_mac": "0a1b2c038606",
+    "asset_serial": "SN-GEN-0386",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0388",
+    "dns_name": "HOST-0388.corp.com",
+    "ip_address": "10.1.132.135",
+    "netbios_mac": "0a1b2c038808",
+    "asset_serial": "SN-GEN-0388",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0390",
+    "dns_name": "HOST-0390.corp.com",
+    "ip_address": "10.1.134.137",
+    "netbios_mac": "0a1b2c039000",
+    "asset_serial": "SN-GEN-0390",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0392",
+    "dns_name": "HOST-0392.corp.com",
+    "ip_address": "10.1.136.139",
+    "netbios_mac": "0a1b2c039202",
+    "asset_serial": "SN-GEN-0392",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0394",
+    "dns_name": "HOST-0394.corp.com",
+    "ip_address": "10.1.138.141",
+    "netbios_mac": "0a1b2c039404",
+    "asset_serial": "SN-GEN-0394",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0396",
+    "dns_name": "HOST-0396.corp.com",
+    "ip_address": "10.1.140.143",
+    "netbios_mac": "0a1b2c039606",
+    "asset_serial": "SN-GEN-0396",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0398",
+    "dns_name": "HOST-0398.corp.com",
+    "ip_address": "10.1.142.145",
+    "netbios_mac": "0a1b2c039808",
+    "asset_serial": "SN-GEN-0398",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0400",
+    "dns_name": "HOST-0400.corp.com",
+    "ip_address": "10.1.144.147",
+    "netbios_mac": "0a1b2c040000",
+    "asset_serial": "SN-GEN-0400",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0402",
+    "dns_name": "HOST-0402.corp.com",
+    "ip_address": "10.1.146.149",
+    "netbios_mac": "0a1b2c040202",
+    "asset_serial": "SN-GEN-0402",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0404",
+    "dns_name": "HOST-0404.corp.com",
+    "ip_address": "10.1.148.151",
+    "netbios_mac": "0a1b2c040404",
+    "asset_serial": "SN-GEN-0404",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0406",
+    "dns_name": "HOST-0406.corp.com",
+    "ip_address": "10.1.150.153",
+    "netbios_mac": "0a1b2c040606",
+    "asset_serial": "SN-GEN-0406",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0408",
+    "dns_name": "HOST-0408.corp.com",
+    "ip_address": "10.1.152.155",
+    "netbios_mac": "0a1b2c040808",
+    "asset_serial": "SN-GEN-0408",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0410",
+    "dns_name": "HOST-0410.corp.com",
+    "ip_address": "10.1.154.157",
+    "netbios_mac": "0a1b2c041000",
+    "asset_serial": "SN-GEN-0410",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0412",
+    "dns_name": "HOST-0412.corp.com",
+    "ip_address": "10.1.156.159",
+    "netbios_mac": "0a1b2c041202",
+    "asset_serial": "SN-GEN-0412",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0414",
+    "dns_name": "HOST-0414.corp.com",
+    "ip_address": "10.1.158.161",
+    "netbios_mac": "0a1b2c041404",
+    "asset_serial": "SN-GEN-0414",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0416",
+    "dns_name": "HOST-0416.corp.com",
+    "ip_address": "10.1.160.163",
+    "netbios_mac": "0a1b2c041606",
+    "asset_serial": "SN-GEN-0416",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0418",
+    "dns_name": "HOST-0418.corp.com",
+    "ip_address": "10.1.162.165",
+    "netbios_mac": "0a1b2c041808",
+    "asset_serial": "SN-GEN-0418",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0420",
+    "dns_name": "HOST-0420.corp.com",
+    "ip_address": "10.1.164.167",
+    "netbios_mac": "0a1b2c042000",
+    "asset_serial": "SN-GEN-0420",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0422",
+    "dns_name": "HOST-0422.corp.com",
+    "ip_address": "10.1.166.169",
+    "netbios_mac": "0a1b2c042202",
+    "asset_serial": "SN-GEN-0422",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0424",
+    "dns_name": "HOST-0424.corp.com",
+    "ip_address": "10.1.168.171",
+    "netbios_mac": "0a1b2c042404",
+    "asset_serial": "SN-GEN-0424",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0426",
+    "dns_name": "HOST-0426.corp.com",
+    "ip_address": "10.1.170.173",
+    "netbios_mac": "0a1b2c042606",
+    "asset_serial": "SN-GEN-0426",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0428",
+    "dns_name": "HOST-0428.corp.com",
+    "ip_address": "10.1.172.175",
+    "netbios_mac": "0a1b2c042808",
+    "asset_serial": "SN-GEN-0428",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0430",
+    "dns_name": "HOST-0430.corp.com",
+    "ip_address": "10.1.174.177",
+    "netbios_mac": "0a1b2c043000",
+    "asset_serial": "SN-GEN-0430",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0432",
+    "dns_name": "HOST-0432.corp.com",
+    "ip_address": "10.1.176.179",
+    "netbios_mac": "0a1b2c043202",
+    "asset_serial": "SN-GEN-0432",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0434",
+    "dns_name": "HOST-0434.corp.com",
+    "ip_address": "10.1.178.181",
+    "netbios_mac": "0a1b2c043404",
+    "asset_serial": "SN-GEN-0434",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0436",
+    "dns_name": "HOST-0436.corp.com",
+    "ip_address": "10.1.180.183",
+    "netbios_mac": "0a1b2c043606",
+    "asset_serial": "SN-GEN-0436",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0438",
+    "dns_name": "HOST-0438.corp.com",
+    "ip_address": "10.1.182.185",
+    "netbios_mac": "0a1b2c043808",
+    "asset_serial": "SN-GEN-0438",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0440",
+    "dns_name": "HOST-0440.corp.com",
+    "ip_address": "10.1.184.187",
+    "netbios_mac": "0a1b2c044000",
+    "asset_serial": "SN-GEN-0440",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0442",
+    "dns_name": "HOST-0442.corp.com",
+    "ip_address": "10.1.186.189",
+    "netbios_mac": "0a1b2c044202",
+    "asset_serial": "SN-GEN-0442",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0444",
+    "dns_name": "HOST-0444.corp.com",
+    "ip_address": "10.1.188.191",
+    "netbios_mac": "0a1b2c044404",
+    "asset_serial": "SN-GEN-0444",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0446",
+    "dns_name": "HOST-0446.corp.com",
+    "ip_address": "10.1.190.193",
+    "netbios_mac": "0a1b2c044606",
+    "asset_serial": "SN-GEN-0446",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0448",
+    "dns_name": "HOST-0448.corp.com",
+    "ip_address": "10.1.192.195",
+    "netbios_mac": "0a1b2c044808",
+    "asset_serial": "SN-GEN-0448",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0450",
+    "dns_name": "HOST-0450.corp.com",
+    "ip_address": "10.1.194.197",
+    "netbios_mac": "0a1b2c045000",
+    "asset_serial": "SN-GEN-0450",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0452",
+    "dns_name": "HOST-0452.corp.com",
+    "ip_address": "10.1.196.199",
+    "netbios_mac": "0a1b2c045202",
+    "asset_serial": "SN-GEN-0452",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0454",
+    "dns_name": "HOST-0454.corp.com",
+    "ip_address": "10.1.198.201",
+    "netbios_mac": "0a1b2c045404",
+    "asset_serial": "SN-GEN-0454",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0456",
+    "dns_name": "HOST-0456.corp.com",
+    "ip_address": "10.1.200.203",
+    "netbios_mac": "0a1b2c045606",
+    "asset_serial": "SN-GEN-0456",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0458",
+    "dns_name": "HOST-0458.corp.com",
+    "ip_address": "10.1.202.205",
+    "netbios_mac": "0a1b2c045808",
+    "asset_serial": "SN-GEN-0458",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0460",
+    "dns_name": "HOST-0460.corp.com",
+    "ip_address": "10.1.204.207",
+    "netbios_mac": "0a1b2c046000",
+    "asset_serial": "SN-GEN-0460",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0462",
+    "dns_name": "HOST-0462.corp.com",
+    "ip_address": "10.1.206.209",
+    "netbios_mac": "0a1b2c046202",
+    "asset_serial": "SN-GEN-0462",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0464",
+    "dns_name": "HOST-0464.corp.com",
+    "ip_address": "10.1.208.211",
+    "netbios_mac": "0a1b2c046404",
+    "asset_serial": "SN-GEN-0464",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0466",
+    "dns_name": "HOST-0466.corp.com",
+    "ip_address": "10.1.210.213",
+    "netbios_mac": "0a1b2c046606",
+    "asset_serial": "SN-GEN-0466",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0468",
+    "dns_name": "HOST-0468.corp.com",
+    "ip_address": "10.1.212.215",
+    "netbios_mac": "0a1b2c046808",
+    "asset_serial": "SN-GEN-0468",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0470",
+    "dns_name": "HOST-0470.corp.com",
+    "ip_address": "10.1.214.217",
+    "netbios_mac": "0a1b2c047000",
+    "asset_serial": "SN-GEN-0470",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0472",
+    "dns_name": "HOST-0472.corp.com",
+    "ip_address": "10.1.216.219",
+    "netbios_mac": "0a1b2c047202",
+    "asset_serial": "SN-GEN-0472",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0474",
+    "dns_name": "HOST-0474.corp.com",
+    "ip_address": "10.1.218.221",
+    "netbios_mac": "0a1b2c047404",
+    "asset_serial": "SN-GEN-0474",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0476",
+    "dns_name": "HOST-0476.corp.com",
+    "ip_address": "10.1.220.223",
+    "netbios_mac": "0a1b2c047606",
+    "asset_serial": "SN-GEN-0476",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0478",
+    "dns_name": "HOST-0478.corp.com",
+    "ip_address": "10.1.222.225",
+    "netbios_mac": "0a1b2c047808",
+    "asset_serial": "SN-GEN-0478",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0480",
+    "dns_name": "HOST-0480.corp.com",
+    "ip_address": "10.1.224.227",
+    "netbios_mac": "0a1b2c048000",
+    "asset_serial": "SN-GEN-0480",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0482",
+    "dns_name": "HOST-0482.corp.com",
+    "ip_address": "10.1.226.229",
+    "netbios_mac": "0a1b2c048202",
+    "asset_serial": "SN-GEN-0482",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0484",
+    "dns_name": "HOST-0484.corp.com",
+    "ip_address": "10.1.228.231",
+    "netbios_mac": "0a1b2c048404",
+    "asset_serial": "SN-GEN-0484",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0486",
+    "dns_name": "HOST-0486.corp.com",
+    "ip_address": "10.1.230.233",
+    "netbios_mac": "0a1b2c048606",
+    "asset_serial": "SN-GEN-0486",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0488",
+    "dns_name": "HOST-0488.corp.com",
+    "ip_address": "10.1.232.235",
+    "netbios_mac": "0a1b2c048808",
+    "asset_serial": "SN-GEN-0488",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0490",
+    "dns_name": "HOST-0490.corp.com",
+    "ip_address": "10.1.234.237",
+    "netbios_mac": "0a1b2c049000",
+    "asset_serial": "SN-GEN-0490",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0492",
+    "dns_name": "HOST-0492.corp.com",
+    "ip_address": "10.1.236.239",
+    "netbios_mac": "0a1b2c049202",
+    "asset_serial": "SN-GEN-0492",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0494",
+    "dns_name": "HOST-0494.corp.com",
+    "ip_address": "10.1.238.241",
+    "netbios_mac": "0a1b2c049404",
+    "asset_serial": "SN-GEN-0494",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0496",
+    "dns_name": "HOST-0496.corp.com",
+    "ip_address": "10.1.240.243",
+    "netbios_mac": "0a1b2c049606",
+    "asset_serial": "SN-GEN-0496",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0498",
+    "dns_name": "HOST-0498.corp.com",
+    "ip_address": "10.1.242.245",
+    "netbios_mac": "0a1b2c049808",
+    "asset_serial": "SN-GEN-0498",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0500",
+    "dns_name": "HOST-0500.corp.com",
+    "ip_address": "10.1.244.247",
+    "netbios_mac": "0a1b2c050000",
+    "asset_serial": "SN-GEN-0500",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0502",
+    "dns_name": "HOST-0502.corp.com",
+    "ip_address": "10.1.246.249",
+    "netbios_mac": "0a1b2c050202",
+    "asset_serial": "SN-GEN-0502",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0504",
+    "dns_name": "HOST-0504.corp.com",
+    "ip_address": "10.1.248.251",
+    "netbios_mac": "0a1b2c050404",
+    "asset_serial": "SN-GEN-0504",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0506",
+    "dns_name": "HOST-0506.corp.com",
+    "ip_address": "10.1.250.253",
+    "netbios_mac": "0a1b2c050606",
+    "asset_serial": "SN-GEN-0506",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0508",
+    "dns_name": "HOST-0508.corp.com",
+    "ip_address": "10.1.252.1",
+    "netbios_mac": "0a1b2c050808",
+    "asset_serial": "SN-GEN-0508",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0510",
+    "dns_name": "HOST-0510.corp.com",
+    "ip_address": "10.1.254.3",
+    "netbios_mac": "0a1b2c051000",
+    "asset_serial": "SN-GEN-0510",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0512",
+    "dns_name": "HOST-0512.corp.com",
+    "ip_address": "10.2.0.5",
+    "netbios_mac": "0a1b2c051202",
+    "asset_serial": "SN-GEN-0512",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0514",
+    "dns_name": "HOST-0514.corp.com",
+    "ip_address": "10.2.2.7",
+    "netbios_mac": "0a1b2c051404",
+    "asset_serial": "SN-GEN-0514",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0516",
+    "dns_name": "HOST-0516.corp.com",
+    "ip_address": "10.2.4.9",
+    "netbios_mac": "0a1b2c051606",
+    "asset_serial": "SN-GEN-0516",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0518",
+    "dns_name": "HOST-0518.corp.com",
+    "ip_address": "10.2.6.11",
+    "netbios_mac": "0a1b2c051808",
+    "asset_serial": "SN-GEN-0518",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0520",
+    "dns_name": "HOST-0520.corp.com",
+    "ip_address": "10.2.8.13",
+    "netbios_mac": "0a1b2c052000",
+    "asset_serial": "SN-GEN-0520",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0522",
+    "dns_name": "HOST-0522.corp.com",
+    "ip_address": "10.2.10.15",
+    "netbios_mac": "0a1b2c052202",
+    "asset_serial": "SN-GEN-0522",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0524",
+    "dns_name": "HOST-0524.corp.com",
+    "ip_address": "10.2.12.17",
+    "netbios_mac": "0a1b2c052404",
+    "asset_serial": "SN-GEN-0524",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0526",
+    "dns_name": "HOST-0526.corp.com",
+    "ip_address": "10.2.14.19",
+    "netbios_mac": "0a1b2c052606",
+    "asset_serial": "SN-GEN-0526",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0528",
+    "dns_name": "HOST-0528.corp.com",
+    "ip_address": "10.2.16.21",
+    "netbios_mac": "0a1b2c052808",
+    "asset_serial": "SN-GEN-0528",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0530",
+    "dns_name": "HOST-0530.corp.com",
+    "ip_address": "10.2.18.23",
+    "netbios_mac": "0a1b2c053000",
+    "asset_serial": "SN-GEN-0530",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0532",
+    "dns_name": "HOST-0532.corp.com",
+    "ip_address": "10.2.20.25",
+    "netbios_mac": "0a1b2c053202",
+    "asset_serial": "SN-GEN-0532",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0534",
+    "dns_name": "HOST-0534.corp.com",
+    "ip_address": "10.2.22.27",
+    "netbios_mac": "0a1b2c053404",
+    "asset_serial": "SN-GEN-0534",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0536",
+    "dns_name": "HOST-0536.corp.com",
+    "ip_address": "10.2.24.29",
+    "netbios_mac": "0a1b2c053606",
+    "asset_serial": "SN-GEN-0536",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0538",
+    "dns_name": "HOST-0538.corp.com",
+    "ip_address": "10.2.26.31",
+    "netbios_mac": "0a1b2c053808",
+    "asset_serial": "SN-GEN-0538",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0540",
+    "dns_name": "HOST-0540.corp.com",
+    "ip_address": "10.2.28.33",
+    "netbios_mac": "0a1b2c054000",
+    "asset_serial": "SN-GEN-0540",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0542",
+    "dns_name": "HOST-0542.corp.com",
+    "ip_address": "10.2.30.35",
+    "netbios_mac": "0a1b2c054202",
+    "asset_serial": "SN-GEN-0542",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0544",
+    "dns_name": "HOST-0544.corp.com",
+    "ip_address": "10.2.32.37",
+    "netbios_mac": "0a1b2c054404",
+    "asset_serial": "SN-GEN-0544",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0546",
+    "dns_name": "HOST-0546.corp.com",
+    "ip_address": "10.2.34.39",
+    "netbios_mac": "0a1b2c054606",
+    "asset_serial": "SN-GEN-0546",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0548",
+    "dns_name": "HOST-0548.corp.com",
+    "ip_address": "10.2.36.41",
+    "netbios_mac": "0a1b2c054808",
+    "asset_serial": "SN-GEN-0548",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0550",
+    "dns_name": "HOST-0550.corp.com",
+    "ip_address": "10.2.38.43",
+    "netbios_mac": "0a1b2c055000",
+    "asset_serial": "SN-GEN-0550",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0552",
+    "dns_name": "HOST-0552.corp.com",
+    "ip_address": "10.2.40.45",
+    "netbios_mac": "0a1b2c055202",
+    "asset_serial": "SN-GEN-0552",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0554",
+    "dns_name": "HOST-0554.corp.com",
+    "ip_address": "10.2.42.47",
+    "netbios_mac": "0a1b2c055404",
+    "asset_serial": "SN-GEN-0554",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0556",
+    "dns_name": "HOST-0556.corp.com",
+    "ip_address": "10.2.44.49",
+    "netbios_mac": "0a1b2c055606",
+    "asset_serial": "SN-GEN-0556",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0558",
+    "dns_name": "HOST-0558.corp.com",
+    "ip_address": "10.2.46.51",
+    "netbios_mac": "0a1b2c055808",
+    "asset_serial": "SN-GEN-0558",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0560",
+    "dns_name": "HOST-0560.corp.com",
+    "ip_address": "10.2.48.53",
+    "netbios_mac": "0a1b2c056000",
+    "asset_serial": "SN-GEN-0560",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0562",
+    "dns_name": "HOST-0562.corp.com",
+    "ip_address": "10.2.50.55",
+    "netbios_mac": "0a1b2c056202",
+    "asset_serial": "SN-GEN-0562",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0564",
+    "dns_name": "HOST-0564.corp.com",
+    "ip_address": "10.2.52.57",
+    "netbios_mac": "0a1b2c056404",
+    "asset_serial": "SN-GEN-0564",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0566",
+    "dns_name": "HOST-0566.corp.com",
+    "ip_address": "10.2.54.59",
+    "netbios_mac": "0a1b2c056606",
+    "asset_serial": "SN-GEN-0566",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0568",
+    "dns_name": "HOST-0568.corp.com",
+    "ip_address": "10.2.56.61",
+    "netbios_mac": "0a1b2c056808",
+    "asset_serial": "SN-GEN-0568",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0570",
+    "dns_name": "HOST-0570.corp.com",
+    "ip_address": "10.2.58.63",
+    "netbios_mac": "0a1b2c057000",
+    "asset_serial": "SN-GEN-0570",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0572",
+    "dns_name": "HOST-0572.corp.com",
+    "ip_address": "10.2.60.65",
+    "netbios_mac": "0a1b2c057202",
+    "asset_serial": "SN-GEN-0572",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0574",
+    "dns_name": "HOST-0574.corp.com",
+    "ip_address": "10.2.62.67",
+    "netbios_mac": "0a1b2c057404",
+    "asset_serial": "SN-GEN-0574",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0576",
+    "dns_name": "HOST-0576.corp.com",
+    "ip_address": "10.2.64.69",
+    "netbios_mac": "0a1b2c057606",
+    "asset_serial": "SN-GEN-0576",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0578",
+    "dns_name": "HOST-0578.corp.com",
+    "ip_address": "10.2.66.71",
+    "netbios_mac": "0a1b2c057808",
+    "asset_serial": "SN-GEN-0578",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0580",
+    "dns_name": "HOST-0580.corp.com",
+    "ip_address": "10.2.68.73",
+    "netbios_mac": "0a1b2c058000",
+    "asset_serial": "SN-GEN-0580",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0582",
+    "dns_name": "HOST-0582.corp.com",
+    "ip_address": "10.2.70.75",
+    "netbios_mac": "0a1b2c058202",
+    "asset_serial": "SN-GEN-0582",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0584",
+    "dns_name": "HOST-0584.corp.com",
+    "ip_address": "10.2.72.77",
+    "netbios_mac": "0a1b2c058404",
+    "asset_serial": "SN-GEN-0584",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0586",
+    "dns_name": "HOST-0586.corp.com",
+    "ip_address": "10.2.74.79",
+    "netbios_mac": "0a1b2c058606",
+    "asset_serial": "SN-GEN-0586",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0588",
+    "dns_name": "HOST-0588.corp.com",
+    "ip_address": "10.2.76.81",
+    "netbios_mac": "0a1b2c058808",
+    "asset_serial": "SN-GEN-0588",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0590",
+    "dns_name": "HOST-0590.corp.com",
+    "ip_address": "10.2.78.83",
+    "netbios_mac": "0a1b2c059000",
+    "asset_serial": "SN-GEN-0590",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0592",
+    "dns_name": "HOST-0592.corp.com",
+    "ip_address": "10.2.80.85",
+    "netbios_mac": "0a1b2c059202",
+    "asset_serial": "SN-GEN-0592",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0594",
+    "dns_name": "HOST-0594.corp.com",
+    "ip_address": "10.2.82.87",
+    "netbios_mac": "0a1b2c059404",
+    "asset_serial": "SN-GEN-0594",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0596",
+    "dns_name": "HOST-0596.corp.com",
+    "ip_address": "10.2.84.89",
+    "netbios_mac": "0a1b2c059606",
+    "asset_serial": "SN-GEN-0596",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0598",
+    "dns_name": "HOST-0598.corp.com",
+    "ip_address": "10.2.86.91",
+    "netbios_mac": "0a1b2c059808",
+    "asset_serial": "SN-GEN-0598",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0600",
+    "dns_name": "HOST-0600.corp.com",
+    "ip_address": "10.2.88.93",
+    "netbios_mac": "0a1b2c060000",
+    "asset_serial": "SN-GEN-0600",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0602",
+    "dns_name": "HOST-0602.corp.com",
+    "ip_address": "10.2.90.95",
+    "netbios_mac": "0a1b2c060202",
+    "asset_serial": "SN-GEN-0602",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0604",
+    "dns_name": "HOST-0604.corp.com",
+    "ip_address": "10.2.92.97",
+    "netbios_mac": "0a1b2c060404",
+    "asset_serial": "SN-GEN-0604",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0606",
+    "dns_name": "HOST-0606.corp.com",
+    "ip_address": "10.2.94.99",
+    "netbios_mac": "0a1b2c060606",
+    "asset_serial": "SN-GEN-0606",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0608",
+    "dns_name": "HOST-0608.corp.com",
+    "ip_address": "10.2.96.101",
+    "netbios_mac": "0a1b2c060808",
+    "asset_serial": "SN-GEN-0608",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0610",
+    "dns_name": "HOST-0610.corp.com",
+    "ip_address": "10.2.98.103",
+    "netbios_mac": "0a1b2c061000",
+    "asset_serial": "SN-GEN-0610",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0612",
+    "dns_name": "HOST-0612.corp.com",
+    "ip_address": "10.2.100.105",
+    "netbios_mac": "0a1b2c061202",
+    "asset_serial": "SN-GEN-0612",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0614",
+    "dns_name": "HOST-0614.corp.com",
+    "ip_address": "10.2.102.107",
+    "netbios_mac": "0a1b2c061404",
+    "asset_serial": "SN-GEN-0614",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0616",
+    "dns_name": "HOST-0616.corp.com",
+    "ip_address": "10.2.104.109",
+    "netbios_mac": "0a1b2c061606",
+    "asset_serial": "SN-GEN-0616",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0618",
+    "dns_name": "HOST-0618.corp.com",
+    "ip_address": "10.2.106.111",
+    "netbios_mac": "0a1b2c061808",
+    "asset_serial": "SN-GEN-0618",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0620",
+    "dns_name": "HOST-0620.corp.com",
+    "ip_address": "10.2.108.113",
+    "netbios_mac": "0a1b2c062000",
+    "asset_serial": "SN-GEN-0620",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0622",
+    "dns_name": "HOST-0622.corp.com",
+    "ip_address": "10.2.110.115",
+    "netbios_mac": "0a1b2c062202",
+    "asset_serial": "SN-GEN-0622",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0624",
+    "dns_name": "HOST-0624.corp.com",
+    "ip_address": "10.2.112.117",
+    "netbios_mac": "0a1b2c062404",
+    "asset_serial": "SN-GEN-0624",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0626",
+    "dns_name": "HOST-0626.corp.com",
+    "ip_address": "10.2.114.119",
+    "netbios_mac": "0a1b2c062606",
+    "asset_serial": "SN-GEN-0626",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0628",
+    "dns_name": "HOST-0628.corp.com",
+    "ip_address": "10.2.116.121",
+    "netbios_mac": "0a1b2c062808",
+    "asset_serial": "SN-GEN-0628",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0630",
+    "dns_name": "HOST-0630.corp.com",
+    "ip_address": "10.2.118.123",
+    "netbios_mac": "0a1b2c063000",
+    "asset_serial": "SN-GEN-0630",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0632",
+    "dns_name": "HOST-0632.corp.com",
+    "ip_address": "10.2.120.125",
+    "netbios_mac": "0a1b2c063202",
+    "asset_serial": "SN-GEN-0632",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0634",
+    "dns_name": "HOST-0634.corp.com",
+    "ip_address": "10.2.122.127",
+    "netbios_mac": "0a1b2c063404",
+    "asset_serial": "SN-GEN-0634",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0636",
+    "dns_name": "HOST-0636.corp.com",
+    "ip_address": "10.2.124.129",
+    "netbios_mac": "0a1b2c063606",
+    "asset_serial": "SN-GEN-0636",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0638",
+    "dns_name": "HOST-0638.corp.com",
+    "ip_address": "10.2.126.131",
+    "netbios_mac": "0a1b2c063808",
+    "asset_serial": "SN-GEN-0638",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0640",
+    "dns_name": "HOST-0640.corp.com",
+    "ip_address": "10.2.128.133",
+    "netbios_mac": "0a1b2c064000",
+    "asset_serial": "SN-GEN-0640",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0642",
+    "dns_name": "HOST-0642.corp.com",
+    "ip_address": "10.2.130.135",
+    "netbios_mac": "0a1b2c064202",
+    "asset_serial": "SN-GEN-0642",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0644",
+    "dns_name": "HOST-0644.corp.com",
+    "ip_address": "10.2.132.137",
+    "netbios_mac": "0a1b2c064404",
+    "asset_serial": "SN-GEN-0644",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0646",
+    "dns_name": "HOST-0646.corp.com",
+    "ip_address": "10.2.134.139",
+    "netbios_mac": "0a1b2c064606",
+    "asset_serial": "SN-GEN-0646",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0648",
+    "dns_name": "HOST-0648.corp.com",
+    "ip_address": "10.2.136.141",
+    "netbios_mac": "0a1b2c064808",
+    "asset_serial": "SN-GEN-0648",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0650",
+    "dns_name": "HOST-0650.corp.com",
+    "ip_address": "10.2.138.143",
+    "netbios_mac": "0a1b2c065000",
+    "asset_serial": "SN-GEN-0650",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0652",
+    "dns_name": "HOST-0652.corp.com",
+    "ip_address": "10.2.140.145",
+    "netbios_mac": "0a1b2c065202",
+    "asset_serial": "SN-GEN-0652",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0654",
+    "dns_name": "HOST-0654.corp.com",
+    "ip_address": "10.2.142.147",
+    "netbios_mac": "0a1b2c065404",
+    "asset_serial": "SN-GEN-0654",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0656",
+    "dns_name": "HOST-0656.corp.com",
+    "ip_address": "10.2.144.149",
+    "netbios_mac": "0a1b2c065606",
+    "asset_serial": "SN-GEN-0656",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0658",
+    "dns_name": "HOST-0658.corp.com",
+    "ip_address": "10.2.146.151",
+    "netbios_mac": "0a1b2c065808",
+    "asset_serial": "SN-GEN-0658",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0660",
+    "dns_name": "HOST-0660.corp.com",
+    "ip_address": "10.2.148.153",
+    "netbios_mac": "0a1b2c066000",
+    "asset_serial": "SN-GEN-0660",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0662",
+    "dns_name": "HOST-0662.corp.com",
+    "ip_address": "10.2.150.155",
+    "netbios_mac": "0a1b2c066202",
+    "asset_serial": "SN-GEN-0662",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0664",
+    "dns_name": "HOST-0664.corp.com",
+    "ip_address": "10.2.152.157",
+    "netbios_mac": "0a1b2c066404",
+    "asset_serial": "SN-GEN-0664",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0666",
+    "dns_name": "HOST-0666.corp.com",
+    "ip_address": "10.2.154.159",
+    "netbios_mac": "0a1b2c066606",
+    "asset_serial": "SN-GEN-0666",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0668",
+    "dns_name": "HOST-0668.corp.com",
+    "ip_address": "10.2.156.161",
+    "netbios_mac": "0a1b2c066808",
+    "asset_serial": "SN-GEN-0668",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0670",
+    "dns_name": "HOST-0670.corp.com",
+    "ip_address": "10.2.158.163",
+    "netbios_mac": "0a1b2c067000",
+    "asset_serial": "SN-GEN-0670",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0672",
+    "dns_name": "HOST-0672.corp.com",
+    "ip_address": "10.2.160.165",
+    "netbios_mac": "0a1b2c067202",
+    "asset_serial": "SN-GEN-0672",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0674",
+    "dns_name": "HOST-0674.corp.com",
+    "ip_address": "10.2.162.167",
+    "netbios_mac": "0a1b2c067404",
+    "asset_serial": "SN-GEN-0674",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0676",
+    "dns_name": "HOST-0676.corp.com",
+    "ip_address": "10.2.164.169",
+    "netbios_mac": "0a1b2c067606",
+    "asset_serial": "SN-GEN-0676",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0678",
+    "dns_name": "HOST-0678.corp.com",
+    "ip_address": "10.2.166.171",
+    "netbios_mac": "0a1b2c067808",
+    "asset_serial": "SN-GEN-0678",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0680",
+    "dns_name": "HOST-0680.corp.com",
+    "ip_address": "10.2.168.173",
+    "netbios_mac": "0a1b2c068000",
+    "asset_serial": "SN-GEN-0680",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0682",
+    "dns_name": "HOST-0682.corp.com",
+    "ip_address": "10.2.170.175",
+    "netbios_mac": "0a1b2c068202",
+    "asset_serial": "SN-GEN-0682",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0684",
+    "dns_name": "HOST-0684.corp.com",
+    "ip_address": "10.2.172.177",
+    "netbios_mac": "0a1b2c068404",
+    "asset_serial": "SN-GEN-0684",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0686",
+    "dns_name": "HOST-0686.corp.com",
+    "ip_address": "10.2.174.179",
+    "netbios_mac": "0a1b2c068606",
+    "asset_serial": "SN-GEN-0686",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0688",
+    "dns_name": "HOST-0688.corp.com",
+    "ip_address": "10.2.176.181",
+    "netbios_mac": "0a1b2c068808",
+    "asset_serial": "SN-GEN-0688",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0690",
+    "dns_name": "HOST-0690.corp.com",
+    "ip_address": "10.2.178.183",
+    "netbios_mac": "0a1b2c069000",
+    "asset_serial": "SN-GEN-0690",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0692",
+    "dns_name": "HOST-0692.corp.com",
+    "ip_address": "10.2.180.185",
+    "netbios_mac": "0a1b2c069202",
+    "asset_serial": "SN-GEN-0692",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0694",
+    "dns_name": "HOST-0694.corp.com",
+    "ip_address": "10.2.182.187",
+    "netbios_mac": "0a1b2c069404",
+    "asset_serial": "SN-GEN-0694",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0696",
+    "dns_name": "HOST-0696.corp.com",
+    "ip_address": "10.2.184.189",
+    "netbios_mac": "0a1b2c069606",
+    "asset_serial": "SN-GEN-0696",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0698",
+    "dns_name": "HOST-0698.corp.com",
+    "ip_address": "10.2.186.191",
+    "netbios_mac": "0a1b2c069808",
+    "asset_serial": "SN-GEN-0698",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0700",
+    "dns_name": "HOST-0700.corp.com",
+    "ip_address": "10.2.188.193",
+    "netbios_mac": "0a1b2c070000",
+    "asset_serial": "SN-GEN-0700",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0702",
+    "dns_name": "HOST-0702.corp.com",
+    "ip_address": "10.2.190.195",
+    "netbios_mac": "0a1b2c070202",
+    "asset_serial": "SN-GEN-0702",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0704",
+    "dns_name": "HOST-0704.corp.com",
+    "ip_address": "10.2.192.197",
+    "netbios_mac": "0a1b2c070404",
+    "asset_serial": "SN-GEN-0704",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0706",
+    "dns_name": "HOST-0706.corp.com",
+    "ip_address": "10.2.194.199",
+    "netbios_mac": "0a1b2c070606",
+    "asset_serial": "SN-GEN-0706",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0708",
+    "dns_name": "HOST-0708.corp.com",
+    "ip_address": "10.2.196.201",
+    "netbios_mac": "0a1b2c070808",
+    "asset_serial": "SN-GEN-0708",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0710",
+    "dns_name": "HOST-0710.corp.com",
+    "ip_address": "10.2.198.203",
+    "netbios_mac": "0a1b2c071000",
+    "asset_serial": "SN-GEN-0710",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0712",
+    "dns_name": "HOST-0712.corp.com",
+    "ip_address": "10.2.200.205",
+    "netbios_mac": "0a1b2c071202",
+    "asset_serial": "SN-GEN-0712",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0714",
+    "dns_name": "HOST-0714.corp.com",
+    "ip_address": "10.2.202.207",
+    "netbios_mac": "0a1b2c071404",
+    "asset_serial": "SN-GEN-0714",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0716",
+    "dns_name": "HOST-0716.corp.com",
+    "ip_address": "10.2.204.209",
+    "netbios_mac": "0a1b2c071606",
+    "asset_serial": "SN-GEN-0716",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0718",
+    "dns_name": "HOST-0718.corp.com",
+    "ip_address": "10.2.206.211",
+    "netbios_mac": "0a1b2c071808",
+    "asset_serial": "SN-GEN-0718",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0720",
+    "dns_name": "HOST-0720.corp.com",
+    "ip_address": "10.2.208.213",
+    "netbios_mac": "0a1b2c072000",
+    "asset_serial": "SN-GEN-0720",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0722",
+    "dns_name": "HOST-0722.corp.com",
+    "ip_address": "10.2.210.215",
+    "netbios_mac": "0a1b2c072202",
+    "asset_serial": "SN-GEN-0722",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0724",
+    "dns_name": "HOST-0724.corp.com",
+    "ip_address": "10.2.212.217",
+    "netbios_mac": "0a1b2c072404",
+    "asset_serial": "SN-GEN-0724",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0726",
+    "dns_name": "HOST-0726.corp.com",
+    "ip_address": "10.2.214.219",
+    "netbios_mac": "0a1b2c072606",
+    "asset_serial": "SN-GEN-0726",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0728",
+    "dns_name": "HOST-0728.corp.com",
+    "ip_address": "10.2.216.221",
+    "netbios_mac": "0a1b2c072808",
+    "asset_serial": "SN-GEN-0728",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0730",
+    "dns_name": "HOST-0730.corp.com",
+    "ip_address": "10.2.218.223",
+    "netbios_mac": "0a1b2c073000",
+    "asset_serial": "SN-GEN-0730",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0732",
+    "dns_name": "HOST-0732.corp.com",
+    "ip_address": "10.2.220.225",
+    "netbios_mac": "0a1b2c073202",
+    "asset_serial": "SN-GEN-0732",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0734",
+    "dns_name": "HOST-0734.corp.com",
+    "ip_address": "10.2.222.227",
+    "netbios_mac": "0a1b2c073404",
+    "asset_serial": "SN-GEN-0734",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0736",
+    "dns_name": "HOST-0736.corp.com",
+    "ip_address": "10.2.224.229",
+    "netbios_mac": "0a1b2c073606",
+    "asset_serial": "SN-GEN-0736",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0738",
+    "dns_name": "HOST-0738.corp.com",
+    "ip_address": "10.2.226.231",
+    "netbios_mac": "0a1b2c073808",
+    "asset_serial": "SN-GEN-0738",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0740",
+    "dns_name": "HOST-0740.corp.com",
+    "ip_address": "10.2.228.233",
+    "netbios_mac": "0a1b2c074000",
+    "asset_serial": "SN-GEN-0740",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0742",
+    "dns_name": "HOST-0742.corp.com",
+    "ip_address": "10.2.230.235",
+    "netbios_mac": "0a1b2c074202",
+    "asset_serial": "SN-GEN-0742",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0744",
+    "dns_name": "HOST-0744.corp.com",
+    "ip_address": "10.2.232.237",
+    "netbios_mac": "0a1b2c074404",
+    "asset_serial": "SN-GEN-0744",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0746",
+    "dns_name": "HOST-0746.corp.com",
+    "ip_address": "10.2.234.239",
+    "netbios_mac": "0a1b2c074606",
+    "asset_serial": "SN-GEN-0746",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0748",
+    "dns_name": "HOST-0748.corp.com",
+    "ip_address": "10.2.236.241",
+    "netbios_mac": "0a1b2c074808",
+    "asset_serial": "SN-GEN-0748",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0750",
+    "dns_name": "HOST-0750.corp.com",
+    "ip_address": "10.2.238.243",
+    "netbios_mac": "0a1b2c075000",
+    "asset_serial": "SN-GEN-0750",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0752",
+    "dns_name": "HOST-0752.corp.com",
+    "ip_address": "10.2.240.245",
+    "netbios_mac": "0a1b2c075202",
+    "asset_serial": "SN-GEN-0752",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0754",
+    "dns_name": "HOST-0754.corp.com",
+    "ip_address": "10.2.242.247",
+    "netbios_mac": "0a1b2c075404",
+    "asset_serial": "SN-GEN-0754",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0756",
+    "dns_name": "HOST-0756.corp.com",
+    "ip_address": "10.2.244.249",
+    "netbios_mac": "0a1b2c075606",
+    "asset_serial": "SN-GEN-0756",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0758",
+    "dns_name": "HOST-0758.corp.com",
+    "ip_address": "10.2.246.251",
+    "netbios_mac": "0a1b2c075808",
+    "asset_serial": "SN-GEN-0758",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0760",
+    "dns_name": "HOST-0760.corp.com",
+    "ip_address": "10.2.248.253",
+    "netbios_mac": "0a1b2c076000",
+    "asset_serial": "SN-GEN-0760",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0762",
+    "dns_name": "HOST-0762.corp.com",
+    "ip_address": "10.2.250.1",
+    "netbios_mac": "0a1b2c076202",
+    "asset_serial": "SN-GEN-0762",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0764",
+    "dns_name": "HOST-0764.corp.com",
+    "ip_address": "10.2.252.3",
+    "netbios_mac": "0a1b2c076404",
+    "asset_serial": "SN-GEN-0764",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0766",
+    "dns_name": "HOST-0766.corp.com",
+    "ip_address": "10.2.254.5",
+    "netbios_mac": "0a1b2c076606",
+    "asset_serial": "SN-GEN-0766",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0768",
+    "dns_name": "HOST-0768.corp.com",
+    "ip_address": "10.3.0.7",
+    "netbios_mac": "0a1b2c076808",
+    "asset_serial": "SN-GEN-0768",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0770",
+    "dns_name": "HOST-0770.corp.com",
+    "ip_address": "10.3.2.9",
+    "netbios_mac": "0a1b2c077000",
+    "asset_serial": "SN-GEN-0770",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0772",
+    "dns_name": "HOST-0772.corp.com",
+    "ip_address": "10.3.4.11",
+    "netbios_mac": "0a1b2c077202",
+    "asset_serial": "SN-GEN-0772",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0774",
+    "dns_name": "HOST-0774.corp.com",
+    "ip_address": "10.3.6.13",
+    "netbios_mac": "0a1b2c077404",
+    "asset_serial": "SN-GEN-0774",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0776",
+    "dns_name": "HOST-0776.corp.com",
+    "ip_address": "10.3.8.15",
+    "netbios_mac": "0a1b2c077606",
+    "asset_serial": "SN-GEN-0776",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0778",
+    "dns_name": "HOST-0778.corp.com",
+    "ip_address": "10.3.10.17",
+    "netbios_mac": "0a1b2c077808",
+    "asset_serial": "SN-GEN-0778",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0780",
+    "dns_name": "HOST-0780.corp.com",
+    "ip_address": "10.3.12.19",
+    "netbios_mac": "0a1b2c078000",
+    "asset_serial": "SN-GEN-0780",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0782",
+    "dns_name": "HOST-0782.corp.com",
+    "ip_address": "10.3.14.21",
+    "netbios_mac": "0a1b2c078202",
+    "asset_serial": "SN-GEN-0782",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0784",
+    "dns_name": "HOST-0784.corp.com",
+    "ip_address": "10.3.16.23",
+    "netbios_mac": "0a1b2c078404",
+    "asset_serial": "SN-GEN-0784",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0786",
+    "dns_name": "HOST-0786.corp.com",
+    "ip_address": "10.3.18.25",
+    "netbios_mac": "0a1b2c078606",
+    "asset_serial": "SN-GEN-0786",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0788",
+    "dns_name": "HOST-0788.corp.com",
+    "ip_address": "10.3.20.27",
+    "netbios_mac": "0a1b2c078808",
+    "asset_serial": "SN-GEN-0788",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0790",
+    "dns_name": "HOST-0790.corp.com",
+    "ip_address": "10.3.22.29",
+    "netbios_mac": "0a1b2c079000",
+    "asset_serial": "SN-GEN-0790",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0792",
+    "dns_name": "HOST-0792.corp.com",
+    "ip_address": "10.3.24.31",
+    "netbios_mac": "0a1b2c079202",
+    "asset_serial": "SN-GEN-0792",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0794",
+    "dns_name": "HOST-0794.corp.com",
+    "ip_address": "10.3.26.33",
+    "netbios_mac": "0a1b2c079404",
+    "asset_serial": "SN-GEN-0794",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0796",
+    "dns_name": "HOST-0796.corp.com",
+    "ip_address": "10.3.28.35",
+    "netbios_mac": "0a1b2c079606",
+    "asset_serial": "SN-GEN-0796",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0798",
+    "dns_name": "HOST-0798.corp.com",
+    "ip_address": "10.3.30.37",
+    "netbios_mac": "0a1b2c079808",
+    "asset_serial": "SN-GEN-0798",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0800",
+    "dns_name": "HOST-0800.corp.com",
+    "ip_address": "10.3.32.39",
+    "netbios_mac": "0a1b2c080000",
+    "asset_serial": "SN-GEN-0800",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0802",
+    "dns_name": "HOST-0802.corp.com",
+    "ip_address": "10.3.34.41",
+    "netbios_mac": "0a1b2c080202",
+    "asset_serial": "SN-GEN-0802",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0804",
+    "dns_name": "HOST-0804.corp.com",
+    "ip_address": "10.3.36.43",
+    "netbios_mac": "0a1b2c080404",
+    "asset_serial": "SN-GEN-0804",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0806",
+    "dns_name": "HOST-0806.corp.com",
+    "ip_address": "10.3.38.45",
+    "netbios_mac": "0a1b2c080606",
+    "asset_serial": "SN-GEN-0806",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0808",
+    "dns_name": "HOST-0808.corp.com",
+    "ip_address": "10.3.40.47",
+    "netbios_mac": "0a1b2c080808",
+    "asset_serial": "SN-GEN-0808",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0810",
+    "dns_name": "HOST-0810.corp.com",
+    "ip_address": "10.3.42.49",
+    "netbios_mac": "0a1b2c081000",
+    "asset_serial": "SN-GEN-0810",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0812",
+    "dns_name": "HOST-0812.corp.com",
+    "ip_address": "10.3.44.51",
+    "netbios_mac": "0a1b2c081202",
+    "asset_serial": "SN-GEN-0812",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0814",
+    "dns_name": "HOST-0814.corp.com",
+    "ip_address": "10.3.46.53",
+    "netbios_mac": "0a1b2c081404",
+    "asset_serial": "SN-GEN-0814",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0816",
+    "dns_name": "HOST-0816.corp.com",
+    "ip_address": "10.3.48.55",
+    "netbios_mac": "0a1b2c081606",
+    "asset_serial": "SN-GEN-0816",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0818",
+    "dns_name": "HOST-0818.corp.com",
+    "ip_address": "10.3.50.57",
+    "netbios_mac": "0a1b2c081808",
+    "asset_serial": "SN-GEN-0818",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0820",
+    "dns_name": "HOST-0820.corp.com",
+    "ip_address": "10.3.52.59",
+    "netbios_mac": "0a1b2c082000",
+    "asset_serial": "SN-GEN-0820",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0822",
+    "dns_name": "HOST-0822.corp.com",
+    "ip_address": "10.3.54.61",
+    "netbios_mac": "0a1b2c082202",
+    "asset_serial": "SN-GEN-0822",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0824",
+    "dns_name": "HOST-0824.corp.com",
+    "ip_address": "10.3.56.63",
+    "netbios_mac": "0a1b2c082404",
+    "asset_serial": "SN-GEN-0824",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0826",
+    "dns_name": "HOST-0826.corp.com",
+    "ip_address": "10.3.58.65",
+    "netbios_mac": "0a1b2c082606",
+    "asset_serial": "SN-GEN-0826",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0828",
+    "dns_name": "HOST-0828.corp.com",
+    "ip_address": "10.3.60.67",
+    "netbios_mac": "0a1b2c082808",
+    "asset_serial": "SN-GEN-0828",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0830",
+    "dns_name": "HOST-0830.corp.com",
+    "ip_address": "10.3.62.69",
+    "netbios_mac": "0a1b2c083000",
+    "asset_serial": "SN-GEN-0830",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0832",
+    "dns_name": "HOST-0832.corp.com",
+    "ip_address": "10.3.64.71",
+    "netbios_mac": "0a1b2c083202",
+    "asset_serial": "SN-GEN-0832",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0834",
+    "dns_name": "HOST-0834.corp.com",
+    "ip_address": "10.3.66.73",
+    "netbios_mac": "0a1b2c083404",
+    "asset_serial": "SN-GEN-0834",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0836",
+    "dns_name": "HOST-0836.corp.com",
+    "ip_address": "10.3.68.75",
+    "netbios_mac": "0a1b2c083606",
+    "asset_serial": "SN-GEN-0836",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0838",
+    "dns_name": "HOST-0838.corp.com",
+    "ip_address": "10.3.70.77",
+    "netbios_mac": "0a1b2c083808",
+    "asset_serial": "SN-GEN-0838",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0840",
+    "dns_name": "HOST-0840.corp.com",
+    "ip_address": "10.3.72.79",
+    "netbios_mac": "0a1b2c084000",
+    "asset_serial": "SN-GEN-0840",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0842",
+    "dns_name": "HOST-0842.corp.com",
+    "ip_address": "10.3.74.81",
+    "netbios_mac": "0a1b2c084202",
+    "asset_serial": "SN-GEN-0842",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0844",
+    "dns_name": "HOST-0844.corp.com",
+    "ip_address": "10.3.76.83",
+    "netbios_mac": "0a1b2c084404",
+    "asset_serial": "SN-GEN-0844",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0846",
+    "dns_name": "HOST-0846.corp.com",
+    "ip_address": "10.3.78.85",
+    "netbios_mac": "0a1b2c084606",
+    "asset_serial": "SN-GEN-0846",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0848",
+    "dns_name": "HOST-0848.corp.com",
+    "ip_address": "10.3.80.87",
+    "netbios_mac": "0a1b2c084808",
+    "asset_serial": "SN-GEN-0848",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0850",
+    "dns_name": "HOST-0850.corp.com",
+    "ip_address": "10.3.82.89",
+    "netbios_mac": "0a1b2c085000",
+    "asset_serial": "SN-GEN-0850",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0852",
+    "dns_name": "HOST-0852.corp.com",
+    "ip_address": "10.3.84.91",
+    "netbios_mac": "0a1b2c085202",
+    "asset_serial": "SN-GEN-0852",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0854",
+    "dns_name": "HOST-0854.corp.com",
+    "ip_address": "10.3.86.93",
+    "netbios_mac": "0a1b2c085404",
+    "asset_serial": "SN-GEN-0854",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0856",
+    "dns_name": "HOST-0856.corp.com",
+    "ip_address": "10.3.88.95",
+    "netbios_mac": "0a1b2c085606",
+    "asset_serial": "SN-GEN-0856",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0858",
+    "dns_name": "HOST-0858.corp.com",
+    "ip_address": "10.3.90.97",
+    "netbios_mac": "0a1b2c085808",
+    "asset_serial": "SN-GEN-0858",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0860",
+    "dns_name": "HOST-0860.corp.com",
+    "ip_address": "10.3.92.99",
+    "netbios_mac": "0a1b2c086000",
+    "asset_serial": "SN-GEN-0860",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0862",
+    "dns_name": "HOST-0862.corp.com",
+    "ip_address": "10.3.94.101",
+    "netbios_mac": "0a1b2c086202",
+    "asset_serial": "SN-GEN-0862",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0864",
+    "dns_name": "HOST-0864.corp.com",
+    "ip_address": "10.3.96.103",
+    "netbios_mac": "0a1b2c086404",
+    "asset_serial": "SN-GEN-0864",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0866",
+    "dns_name": "HOST-0866.corp.com",
+    "ip_address": "10.3.98.105",
+    "netbios_mac": "0a1b2c086606",
+    "asset_serial": "SN-GEN-0866",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0868",
+    "dns_name": "HOST-0868.corp.com",
+    "ip_address": "10.3.100.107",
+    "netbios_mac": "0a1b2c086808",
+    "asset_serial": "SN-GEN-0868",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0870",
+    "dns_name": "HOST-0870.corp.com",
+    "ip_address": "10.3.102.109",
+    "netbios_mac": "0a1b2c087000",
+    "asset_serial": "SN-GEN-0870",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0872",
+    "dns_name": "HOST-0872.corp.com",
+    "ip_address": "10.3.104.111",
+    "netbios_mac": "0a1b2c087202",
+    "asset_serial": "SN-GEN-0872",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0874",
+    "dns_name": "HOST-0874.corp.com",
+    "ip_address": "10.3.106.113",
+    "netbios_mac": "0a1b2c087404",
+    "asset_serial": "SN-GEN-0874",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0876",
+    "dns_name": "HOST-0876.corp.com",
+    "ip_address": "10.3.108.115",
+    "netbios_mac": "0a1b2c087606",
+    "asset_serial": "SN-GEN-0876",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0878",
+    "dns_name": "HOST-0878.corp.com",
+    "ip_address": "10.3.110.117",
+    "netbios_mac": "0a1b2c087808",
+    "asset_serial": "SN-GEN-0878",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0880",
+    "dns_name": "HOST-0880.corp.com",
+    "ip_address": "10.3.112.119",
+    "netbios_mac": "0a1b2c088000",
+    "asset_serial": "SN-GEN-0880",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0882",
+    "dns_name": "HOST-0882.corp.com",
+    "ip_address": "10.3.114.121",
+    "netbios_mac": "0a1b2c088202",
+    "asset_serial": "SN-GEN-0882",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0884",
+    "dns_name": "HOST-0884.corp.com",
+    "ip_address": "10.3.116.123",
+    "netbios_mac": "0a1b2c088404",
+    "asset_serial": "SN-GEN-0884",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0886",
+    "dns_name": "HOST-0886.corp.com",
+    "ip_address": "10.3.118.125",
+    "netbios_mac": "0a1b2c088606",
+    "asset_serial": "SN-GEN-0886",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0888",
+    "dns_name": "HOST-0888.corp.com",
+    "ip_address": "10.3.120.127",
+    "netbios_mac": "0a1b2c088808",
+    "asset_serial": "SN-GEN-0888",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0890",
+    "dns_name": "HOST-0890.corp.com",
+    "ip_address": "10.3.122.129",
+    "netbios_mac": "0a1b2c089000",
+    "asset_serial": "SN-GEN-0890",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0892",
+    "dns_name": "HOST-0892.corp.com",
+    "ip_address": "10.3.124.131",
+    "netbios_mac": "0a1b2c089202",
+    "asset_serial": "SN-GEN-0892",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0894",
+    "dns_name": "HOST-0894.corp.com",
+    "ip_address": "10.3.126.133",
+    "netbios_mac": "0a1b2c089404",
+    "asset_serial": "SN-GEN-0894",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0896",
+    "dns_name": "HOST-0896.corp.com",
+    "ip_address": "10.3.128.135",
+    "netbios_mac": "0a1b2c089606",
+    "asset_serial": "SN-GEN-0896",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0898",
+    "dns_name": "HOST-0898.corp.com",
+    "ip_address": "10.3.130.137",
+    "netbios_mac": "0a1b2c089808",
+    "asset_serial": "SN-GEN-0898",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0900",
+    "dns_name": "HOST-0900.corp.com",
+    "ip_address": "10.3.132.139",
+    "netbios_mac": "0a1b2c090000",
+    "asset_serial": "SN-GEN-0900",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0902",
+    "dns_name": "HOST-0902.corp.com",
+    "ip_address": "10.3.134.141",
+    "netbios_mac": "0a1b2c090202",
+    "asset_serial": "SN-GEN-0902",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0904",
+    "dns_name": "HOST-0904.corp.com",
+    "ip_address": "10.3.136.143",
+    "netbios_mac": "0a1b2c090404",
+    "asset_serial": "SN-GEN-0904",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0906",
+    "dns_name": "HOST-0906.corp.com",
+    "ip_address": "10.3.138.145",
+    "netbios_mac": "0a1b2c090606",
+    "asset_serial": "SN-GEN-0906",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0908",
+    "dns_name": "HOST-0908.corp.com",
+    "ip_address": "10.3.140.147",
+    "netbios_mac": "0a1b2c090808",
+    "asset_serial": "SN-GEN-0908",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0910",
+    "dns_name": "HOST-0910.corp.com",
+    "ip_address": "10.3.142.149",
+    "netbios_mac": "0a1b2c091000",
+    "asset_serial": "SN-GEN-0910",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0912",
+    "dns_name": "HOST-0912.corp.com",
+    "ip_address": "10.3.144.151",
+    "netbios_mac": "0a1b2c091202",
+    "asset_serial": "SN-GEN-0912",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0914",
+    "dns_name": "HOST-0914.corp.com",
+    "ip_address": "10.3.146.153",
+    "netbios_mac": "0a1b2c091404",
+    "asset_serial": "SN-GEN-0914",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0916",
+    "dns_name": "HOST-0916.corp.com",
+    "ip_address": "10.3.148.155",
+    "netbios_mac": "0a1b2c091606",
+    "asset_serial": "SN-GEN-0916",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0918",
+    "dns_name": "HOST-0918.corp.com",
+    "ip_address": "10.3.150.157",
+    "netbios_mac": "0a1b2c091808",
+    "asset_serial": "SN-GEN-0918",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0920",
+    "dns_name": "HOST-0920.corp.com",
+    "ip_address": "10.3.152.159",
+    "netbios_mac": "0a1b2c092000",
+    "asset_serial": "SN-GEN-0920",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0922",
+    "dns_name": "HOST-0922.corp.com",
+    "ip_address": "10.3.154.161",
+    "netbios_mac": "0a1b2c092202",
+    "asset_serial": "SN-GEN-0922",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0924",
+    "dns_name": "HOST-0924.corp.com",
+    "ip_address": "10.3.156.163",
+    "netbios_mac": "0a1b2c092404",
+    "asset_serial": "SN-GEN-0924",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0926",
+    "dns_name": "HOST-0926.corp.com",
+    "ip_address": "10.3.158.165",
+    "netbios_mac": "0a1b2c092606",
+    "asset_serial": "SN-GEN-0926",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0928",
+    "dns_name": "HOST-0928.corp.com",
+    "ip_address": "10.3.160.167",
+    "netbios_mac": "0a1b2c092808",
+    "asset_serial": "SN-GEN-0928",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0930",
+    "dns_name": "HOST-0930.corp.com",
+    "ip_address": "10.3.162.169",
+    "netbios_mac": "0a1b2c093000",
+    "asset_serial": "SN-GEN-0930",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0932",
+    "dns_name": "HOST-0932.corp.com",
+    "ip_address": "10.3.164.171",
+    "netbios_mac": "0a1b2c093202",
+    "asset_serial": "SN-GEN-0932",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0934",
+    "dns_name": "HOST-0934.corp.com",
+    "ip_address": "10.3.166.173",
+    "netbios_mac": "0a1b2c093404",
+    "asset_serial": "SN-GEN-0934",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0936",
+    "dns_name": "HOST-0936.corp.com",
+    "ip_address": "10.3.168.175",
+    "netbios_mac": "0a1b2c093606",
+    "asset_serial": "SN-GEN-0936",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0938",
+    "dns_name": "HOST-0938.corp.com",
+    "ip_address": "10.3.170.177",
+    "netbios_mac": "0a1b2c093808",
+    "asset_serial": "SN-GEN-0938",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0940",
+    "dns_name": "HOST-0940.corp.com",
+    "ip_address": "10.3.172.179",
+    "netbios_mac": "0a1b2c094000",
+    "asset_serial": "SN-GEN-0940",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0942",
+    "dns_name": "HOST-0942.corp.com",
+    "ip_address": "10.3.174.181",
+    "netbios_mac": "0a1b2c094202",
+    "asset_serial": "SN-GEN-0942",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0944",
+    "dns_name": "HOST-0944.corp.com",
+    "ip_address": "10.3.176.183",
+    "netbios_mac": "0a1b2c094404",
+    "asset_serial": "SN-GEN-0944",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0946",
+    "dns_name": "HOST-0946.corp.com",
+    "ip_address": "10.3.178.185",
+    "netbios_mac": "0a1b2c094606",
+    "asset_serial": "SN-GEN-0946",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0948",
+    "dns_name": "HOST-0948.corp.com",
+    "ip_address": "10.3.180.187",
+    "netbios_mac": "0a1b2c094808",
+    "asset_serial": "SN-GEN-0948",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0950",
+    "dns_name": "HOST-0950.corp.com",
+    "ip_address": "10.3.182.189",
+    "netbios_mac": "0a1b2c095000",
+    "asset_serial": "SN-GEN-0950",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0952",
+    "dns_name": "HOST-0952.corp.com",
+    "ip_address": "10.3.184.191",
+    "netbios_mac": "0a1b2c095202",
+    "asset_serial": "SN-GEN-0952",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0954",
+    "dns_name": "HOST-0954.corp.com",
+    "ip_address": "10.3.186.193",
+    "netbios_mac": "0a1b2c095404",
+    "asset_serial": "SN-GEN-0954",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0956",
+    "dns_name": "HOST-0956.corp.com",
+    "ip_address": "10.3.188.195",
+    "netbios_mac": "0a1b2c095606",
+    "asset_serial": "SN-GEN-0956",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0958",
+    "dns_name": "HOST-0958.corp.com",
+    "ip_address": "10.3.190.197",
+    "netbios_mac": "0a1b2c095808",
+    "asset_serial": "SN-GEN-0958",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0960",
+    "dns_name": "HOST-0960.corp.com",
+    "ip_address": "10.3.192.199",
+    "netbios_mac": "0a1b2c096000",
+    "asset_serial": "SN-GEN-0960",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0962",
+    "dns_name": "HOST-0962.corp.com",
+    "ip_address": "10.3.194.201",
+    "netbios_mac": "0a1b2c096202",
+    "asset_serial": "SN-GEN-0962",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0964",
+    "dns_name": "HOST-0964.corp.com",
+    "ip_address": "10.3.196.203",
+    "netbios_mac": "0a1b2c096404",
+    "asset_serial": "SN-GEN-0964",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0966",
+    "dns_name": "HOST-0966.corp.com",
+    "ip_address": "10.3.198.205",
+    "netbios_mac": "0a1b2c096606",
+    "asset_serial": "SN-GEN-0966",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0968",
+    "dns_name": "HOST-0968.corp.com",
+    "ip_address": "10.3.200.207",
+    "netbios_mac": "0a1b2c096808",
+    "asset_serial": "SN-GEN-0968",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0970",
+    "dns_name": "HOST-0970.corp.com",
+    "ip_address": "10.3.202.209",
+    "netbios_mac": "0a1b2c097000",
+    "asset_serial": "SN-GEN-0970",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0972",
+    "dns_name": "HOST-0972.corp.com",
+    "ip_address": "10.3.204.211",
+    "netbios_mac": "0a1b2c097202",
+    "asset_serial": "SN-GEN-0972",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0974",
+    "dns_name": "HOST-0974.corp.com",
+    "ip_address": "10.3.206.213",
+    "netbios_mac": "0a1b2c097404",
+    "asset_serial": "SN-GEN-0974",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0976",
+    "dns_name": "HOST-0976.corp.com",
+    "ip_address": "10.3.208.215",
+    "netbios_mac": "0a1b2c097606",
+    "asset_serial": "SN-GEN-0976",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0978",
+    "dns_name": "HOST-0978.corp.com",
+    "ip_address": "10.3.210.217",
+    "netbios_mac": "0a1b2c097808",
+    "asset_serial": "SN-GEN-0978",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0980",
+    "dns_name": "HOST-0980.corp.com",
+    "ip_address": "10.3.212.219",
+    "netbios_mac": "0a1b2c098000",
+    "asset_serial": "SN-GEN-0980",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0982",
+    "dns_name": "HOST-0982.corp.com",
+    "ip_address": "10.3.214.221",
+    "netbios_mac": "0a1b2c098202",
+    "asset_serial": "SN-GEN-0982",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0984",
+    "dns_name": "HOST-0984.corp.com",
+    "ip_address": "10.3.216.223",
+    "netbios_mac": "0a1b2c098404",
+    "asset_serial": "SN-GEN-0984",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0986",
+    "dns_name": "HOST-0986.corp.com",
+    "ip_address": "10.3.218.225",
+    "netbios_mac": "0a1b2c098606",
+    "asset_serial": "SN-GEN-0986",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0988",
+    "dns_name": "HOST-0988.corp.com",
+    "ip_address": "10.3.220.227",
+    "netbios_mac": "0a1b2c098808",
+    "asset_serial": "SN-GEN-0988",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0990",
+    "dns_name": "HOST-0990.corp.com",
+    "ip_address": "10.3.222.229",
+    "netbios_mac": "0a1b2c099000",
+    "asset_serial": "SN-GEN-0990",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0992",
+    "dns_name": "HOST-0992.corp.com",
+    "ip_address": "10.3.224.231",
+    "netbios_mac": "0a1b2c099202",
+    "asset_serial": "SN-GEN-0992",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0994",
+    "dns_name": "HOST-0994.corp.com",
+    "ip_address": "10.3.226.233",
+    "netbios_mac": "0a1b2c099404",
+    "asset_serial": "SN-GEN-0994",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0996",
+    "dns_name": "HOST-0996.corp.com",
+    "ip_address": "10.3.228.235",
+    "netbios_mac": "0a1b2c099606",
+    "asset_serial": "SN-GEN-0996",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-0998",
+    "dns_name": "HOST-0998.corp.com",
+    "ip_address": "10.3.230.237",
+    "netbios_mac": "0a1b2c099808",
+    "asset_serial": "SN-GEN-0998",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  },
+  {
+    "qualys_asset_id": "QLY-1000",
+    "dns_name": "HOST-1000.corp.com",
+    "ip_address": "10.3.232.239",
+    "netbios_mac": "0a1b2c100000",
+    "asset_serial": "SN-GEN-1000",
+    "os": "Ubuntu 22.04 LTS",
+    "last_scan": "2026-05-13T08:00:00Z",
+    "loaded_at": "2026-05-15T01:00:00Z"
+  }
+]

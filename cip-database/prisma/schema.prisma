@@ -1,0 +1,172 @@
+// CIP serving layer. These tables mirror the Snowflake PUBLISH schema 1:1.
+// Postgres-only constructs (tsvector generated column, GIN/trgm indexes,
+// pg_trgm extension) are applied via src/scripts/postMigrate.ts because
+// Prisma cannot express them directly.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Global node spine: one addressable identity for every entity, any domain.
+model NodeRef {
+  nodeId      String  @id @map("node_id")
+  entityType  String  @map("entity_type") // ASSET | USER | VULN | NETWORK | INCIDENT | RISK
+  domainPk    String  @map("domain_pk")
+  displayName String  @map("display_name")
+  criticality Int     @default(0)
+  dataScope   String  @default("*") @map("data_scope")
+
+  asset       DimAsset?
+  user        DimUser?
+  vuln        DimVuln?
+  searchDoc   SearchDoc?
+  detail      SourceDetail[]
+  edgesOut    RelEdge[]      @relation("src")
+  edgesIn     RelEdge[]      @relation("dst")
+
+  @@unique([entityType, domainPk])
+  @@index([entityType])
+  @@map("node_ref")
+}
+
+model DimAsset {
+  assetId    String   @id @map("asset_id")
+  hostname   String?
+  ipAddress  String?  @map("ip_address")
+  macAddress String?  @map("mac_address")
+  deviceType String?  @map("device_type")
+  ownerDept  String?  @map("owner_dept")
+  exposure   String?
+  firstSeen  DateTime? @map("first_seen")
+  lastSeen   DateTime? @map("last_seen")
+  node       NodeRef  @relation(fields: [assetId], references: [nodeId])
+
+  @@index([hostname])
+  @@map("dim_asset")
+}
+
+model DimUser {
+  userId       String  @id @map("user_id")
+  email        String?
+  upn          String?
+  employeeType String? @map("employee_type")
+  managerId    String? @map("manager_id")
+  mfaEnabled   Boolean? @map("mfa_enabled")
+  node         NodeRef @relation(fields: [userId], references: [nodeId])
+
+  @@index([email])
+  @@map("dim_user")
+}
+
+model DimVuln {
+  vulnId           String   @id @map("vuln_id")
+  cveId            String?  @map("cve_id")
+  cvssBase         Float?   @map("cvss_base")
+  severity         String?
+  exploitAvailable Boolean? @map("exploit_available")
+  kev              Boolean?
+  node             NodeRef  @relation(fields: [vulnId], references: [nodeId])
+
+  @@index([cveId])
+  @@map("dim_vuln")
+}
+
+model SourceDetail {
+  obsId          String   @id @map("obs_id")
+  nodeId         String?  @map("node_id")
+  sourceSystem   String   @map("source_system")
+  sourceNativeId String   @map("source_native_id")
+  rawData        Json     @map("raw_data")
+  loadedAt       DateTime @map("loaded_at")
+  node           NodeRef? @relation(fields: [nodeId], references: [nodeId])
+
+  @@unique([sourceSystem, sourceNativeId])
+  @@index([nodeId])
+  @@map("source_detail")
+}
+
+model RelEdge {
+  edgeId       String    @id @map("edge_id")
+  srcNode      String    @map("src_node")
+  dstNode      String    @map("dst_node")
+  edgeType     String    @map("edge_type") // OWNS|USES|HAS_FINDING|CONNECTS_ON|AFFECTS|DERIVED_FROM
+  confidence   Float     @default(1.0)
+  sourceSystem String?   @map("source_system")
+  validFrom    DateTime  @map("valid_from")
+  validTo      DateTime? @map("valid_to")
+  src          NodeRef   @relation("src", fields: [srcNode], references: [nodeId])
+  dst          NodeRef   @relation("dst", fields: [dstNode], references: [nodeId])
+
+  @@unique([srcNode, dstNode, edgeType, sourceSystem])
+  @@index([srcNode, edgeType])
+  @@index([dstNode, edgeType])
+  @@map("rel_edge")
+}
+
+model DimSource {
+  sourceSystem  String @id @map("source_system")
+  domain        String?
+  fieldMapping  Json?  @map("field_mapping")
+  displayConfig Json?  @map("display_config")
+  priority      Int?
+  @@map("dim_source")
+}
+
+model AttributeCatalog {
+  domain       String
+  sourceSystem String  @map("source_system")
+  attributeKey String  @map("attribute_key")
+  dataType     String? @map("data_type")
+  piiClass     String? @map("pii_class")
+  indexed      Boolean @default(false)
+
+  @@id([domain, sourceSystem, attributeKey])
+  @@map("attribute_catalog")
+}
+
+// `ts` (tsvector) is added as a GENERATED column in postMigrate.ts.
+model SearchDoc {
+  nodeId      String  @id @map("node_id")
+  entityType  String  @map("entity_type")
+  displayName String? @map("display_name")
+  body        String?
+  dataScope   String  @default("*") @map("data_scope")
+  node        NodeRef @relation(fields: [nodeId], references: [nodeId])
+
+  @@map("search_doc")
+}
+
+model LoadState {
+  tableName String   @id @map("table_name")
+  watermark String
+  updatedAt DateTime @default(now()) @map("updated_at")
+  @@map("load_state")
+}
+
+// Output of the detector engine (src/scripts/detectors.ts). A derived,
+// recomputed analytics table — intentionally NOT FK-linked to node_ref so
+// detectors can be replayed independently of the load order. One row per
+// (rule_key, primary_node); related_nodes carries the supporting evidence
+// nodes (e.g. the vuln + unprotected owner for the toxic-triad rule).
+model Finding {
+  findingId    String   @id @map("finding_id")
+  ruleKey      String   @map("rule_key")
+  severity     String // CRITICAL | HIGH | MEDIUM | LOW
+  title        String
+  primaryNode  String   @map("primary_node")
+  relatedNodes String[] @map("related_nodes")
+  evidence     Json
+  dataScope    String   @default("*") @map("data_scope")
+  firstSeen    DateTime @default(now()) @map("first_seen")
+  lastSeen     DateTime @default(now()) @map("last_seen")
+
+  @@index([ruleKey])
+  @@index([primaryNode])
+  @@index([severity])
+  @@map("finding")
+}

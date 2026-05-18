@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+**/dist/
+build/
+**/build/
+build/publish/
+
+# Secrets / local env (never push DB creds or tokens)
+.env
+**/.env
+*.local
+
+# Logs / misc
+*.log
+.DS_Store
+
+# Prisma generated client (regenerated on install)
+**/.prisma/
